@@ -1,0 +1,286 @@
+# STM32CubeMX 汉化词库（UTF-8）
+# 格式：英文原文<TAB>中文。以 * 开头的条目为「短语替换」，仅用于窗口标题（如 *Untitled）。
+# 只在界面显示层替换，不影响程序逻辑；填空白表示保留英文（用于屏蔽自动收集）。
+# 增补方法：编辑本文件 → 保存 → 重启 STM32CubeMX 即生效。
+
+# ===== 窗口标题短语 =====
+*Untitled	未命名
+
+# ===== 菜单栏 =====
+File	文件
+Edit	编辑
+Window	窗口
+Help	帮助
+Tools	工具
+Project	工程
+Outputs	输出
+Home	主页
+
+# ===== 文件菜单 =====
+Create a New Project	新建工程
+New Project ...	新建工程 ...
+New Project	新建工程
+Load a Project	加载工程
+Load Project ...	加载工程 ...
+Import project: available for new Project without compound pins	导入工程：仅适用于无复合引脚的工程
+Import Project ...	导入工程 ...
+Import Project	导入工程
+Save the current Project	保存当前工程
+Save Project	保存工程
+Save the Project in a new file	工程另存为新文件
+Save Project As ..	工程另存为 ..
+Close current Project	关闭当前工程
+Close Project	关闭工程
+Generate Project report files (pdf and txt)	生成工程报告文件（PDF 与 TXT）
+Generate Report	生成报告
+Generate Code	生成代码
+Recent Projects	最近的工程
+Clear Recent Projects List	清空最近工程列表
+Exit STM32CubeMX	退出 STM32CubeMX
+Exit	退出
+
+# ===== 窗口菜单 =====
+Change the size of text and other items	调整文字等显示大小
+Display size	显示大小
+Smaller (low-res. display)	较小（低分辨率显示）
+Medium	中
+Larger (high-res. display)	较大（高分辨率显示）
+
+# ===== 帮助菜单 =====
+Display the Help	显示帮助
+About STM32CubeMX	关于 STM32CubeMX
+About	关于
+Technical Documentation	技术文档
+Docs & Resources	文档与资源
+Open Tutorial Video menu	打开教程视频菜单
+Tutorial Videos	教程视频
+Refresh data and documents for MCUs, Boards and Examples	刷新 MCU、开发板与示例的数据和文档
+Refresh Data	刷新数据
+User Preferences	用户首选项
+Check if updates are available for STM32CubeMX & embedded software packages.	检查 STM32CubeMX 与嵌入式软件包是否有更新。
+Check for Updates	检查更新
+Check for update	检查更新
+Install, Remove, check for new embedded software package releases.	安装、移除、查看嵌入式软件包的新版本。
+Manage embedded software packages	管理嵌入式软件包
+Settings for the Updater	更新程序设置
+Connection & Updates	连接与更新
+Connection failure	连接失败
+Configure network	配置网络
+New packages are available	有新软件包可用
+Data update is available	有数据更新可用
+
+# ===== 主页与选型 =====
+Existing Projects	现有工程
+Open Existing Projects	打开现有工程
+Data collection information notice	数据收集说明
+Other Services	其他服务
+I need to :	我要：
+Start My project from MCU	从 MCU 开始创建工程
+ACCESS TO MCU SELECTOR	进入 MCU 选型
+Start My project from ST Board	从 ST 开发板开始创建工程
+ACCESS TO BOARD SELECTOR	进入开发板选型
+Start My project from Example	从示例开始创建工程
+ACCESS TO EXAMPLE SELECTOR	进入示例选择
+ACCESS TO COMPARE PROJECTS	进入工程对比
+Manage software installations	管理软件安装
+Check for STM32CubeMX and embedded software packages updates	检查 STM32CubeMX 与嵌入式软件包更新
+CHECK FOR UPDATES	检查更新
+Install or remove embedded software packages	安装或移除嵌入式软件包
+INSTALL / REMOVE	安装 / 移除
+About STM32	关于 STM32
+External Tools	外部工具
+GENERATE CODE	生成代码
+MCUs Selection	MCU 选型
+Output	输出
+IPs assignment rules	IP 分配规则
+Pin to pin compatibility	引脚兼容性
+Restart Project	重新开始工程
+Clear list	清空列表
+Series	系列
+Line	产品线
+Mcu	MCU
+CPN	订货号
+Package	封装
+Required Peripherals	所需外设
+Go to ST Product Longevity Commitment page	打开 ST 产品长期供货承诺页面
+Go to ST Facebook profile	打开 ST Facebook 主页
+Go to ST YouTube channel	打开 ST YouTube 频道
+Go to ST Twitter profile	打开 ST Twitter 主页
+Go to ST Github	打开 ST GitHub
+Go to ST Wiki	打开 ST Wiki
+Go to ST Community Forum	打开 ST 社区论坛
+Go to ST home page	打开 ST 官网
+
+# ===== 常用按钮 / 对话框 =====
+OK	确定
+Cancel	取消
+Apply	应用
+Close	关闭
+Yes	是
+No	否
+Browse...	浏览...
+Browse	浏览
+Add	添加
+Remove	移除
+Delete	删除
+Edit	编辑
+New	新建
+Open	打开
+Save	保存
+Save As...	另存为...
+Copy	复制
+Cut	剪切
+Paste	粘贴
+Undo	撤销
+Redo	重做
+Reset	重置
+Clear	清除
+Search	搜索
+Print	打印
+Import	导入
+Export	导出
+Rename	重命名
+Select	选择
+Select All	全选
+Continue	继续
+Retry	重试
+Ignore	忽略
+Details	详细信息
+Show Details	显示详细信息
+Show	显示
+Hide	隐藏
+Expand All	全部展开
+Collapse All	全部折叠
+Zoom In	放大
+Zoom Out	缩小
+Best Fit	最佳适配
+Rotate	旋转
+Flip	翻转
+Copy to Clipboard	复制到剪贴板
+Back	上一步
+Next	下一步
+Finish	完成
+Move Up	上移
+Move Down	下移
+Loading	加载中
+Please wait	请稍候
+Done	完成
+Failed	失败
+Warning	警告
+Error	错误
+Information	信息
+Question	问题
+
+# ===== 常用标签 / 表头 =====
+Name	名称
+Value	值
+Type	类型
+Size	大小
+Mode	模式
+Status	状态
+Version	版本
+Description	描述
+Comment	备注
+Notes	备注
+User	用户
+Password	密码
+Username	用户名
+Login	登录
+Logout	注销
+Proxy	代理
+Server	服务器
+Port	端口
+Address	地址
+Connection	连接
+Network	网络
+Offline	离线
+Online	在线
+Settings	设置
+Options	选项
+Properties	属性
+General	常规
+Advanced	高级
+Default	默认
+Custom	自定义
+Enabled	启用
+Disabled	禁用
+Enable	启用
+Disable	禁用
+Required	必需
+Optional	可选
+Recommended	推荐
+Not installed	未安装
+Installed	已安装
+Available	可用
+Not available	不可用
+Download	下载
+Install	安装
+Uninstall	卸载
+Update	更新
+Latest	最新
+Up to date	已是最新
+Folder	文件夹
+File	文件
+Project Name	工程名称
+Project Location	工程位置
+Project Settings	工程设置
+Toolchain / IDE	工具链 / IDE
+Firmware Package	固件包
+User Constants	用户常量
+Code Generator	代码生成器
+Pinout	引脚布局
+Pinout & Configuration	引脚布局与配置
+Clock Configuration	时钟配置
+Project Manager	工程管理器
+Peripherals	外设
+System Core	系统内核
+Analog	模拟
+Timers	定时器
+Connectivity	连接
+Computing	计算
+Multimedia	多媒体
+Middleware and Software Packs	中间件与软件包
+Configuration	配置
+Parameter Settings	参数设置
+GPIO Settings	GPIO 设置
+NVIC Settings	NVIC 设置
+DMA Settings	DMA 设置
+Board Support	开发板支持
+Software Packs	软件包
+Middlewares	中间件
+Frequency	频率
+Speed	速度
+High	高
+Low	低
+Very High	非常高
+Very Low	非常低
+Maximum	最大
+Minimum	最小
+Input	输入
+Output	输出
+Push Pull	推挽
+Open Drain	开漏
+Pull-up	上拉
+Pull-down	下拉
+Rising Edge	上升沿
+Falling Edge	下降沿
+Both Edges	双边沿
+Clock Source	时钟源
+Reset	复位
+Pin	引脚
+Signal	信号
+Label	标签
+User Label	用户标签
+Board	开发板
+Vendor	厂商
+Core	内核
+Flash	Flash
+RAM	RAM
+Voltage	电压
+Temperature	温度
+Datasheet	数据手册
+Reference Manual	参考手册
+Start	启动
+Stop	停止
+Pause	暂停
+Resume	恢复

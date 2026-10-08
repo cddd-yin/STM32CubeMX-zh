@@ -1,0 +1,3245 @@
+﻿en	count	zh
+Never mind	149
+don't care	43
+Exception caught	31
+Series index out of bounds	30
+Start address	22
+Log4j Builder	19
+m33 master	19
+Firmware area size	18
+The date must not be null	17
+Chronology must not be null	16
+Zone must not be null	16
+User Authentication Manager	16
+Region size	15
+Cookie origin	14
+Project Manager	14
+Field must not be null	14
+The calendar must not be null	14
+DDR Type	14
+The Array must not be null	12
+mac os x	12
+project name	11
+Project Settings	11
+Target host	11
+No Firmware Available	11
+The field must not be null	11
+Output stream	11
+MDK-ARM V5.39	10
+VS Code Compatible	10
+MDK-ARM V5.27	10
+MDK-ARM V5	10
+EWARM V9.60	10
+MDK-ARM V5.37	10
+EWARM V7	10
+Generate Code	10
+EWARM V8.50	10
+Board Support	10
+MDK-ARM V5.32	10
+EWARM V8.32	10
+Import Project	10
+MDK-ARM V5.38	10
+MDK-ARM V4	10
+EWARM V9.20	10
+EWARM V9.30	10
+EWARM V8	10
+EWARM V9.40	10
+CMSIS Driver	9
+Block Cipher	9
+Risaf Table	9
+Region name	9
+Global lock : OFF	9
+CID SELECTION	9
+Deserialization is unsupported	9
+Fast Block Cipher	9
+dont care	9
+Global lock : ON	9
+David Gilbert	9
+NS reserved area size	8
+smak configuration oem	8
+NS appli size	8
+Extension Board	8
+NS reserved area offset	8
+stirot configuration	8
+oemurot configuration	8
+da config	8
+MDK-ARM 4.73	8
+step 0	8
+Secure SRAM End address	8
+step 3	8
+Must supply a chronology	8
+sm configuration general	8
+Time unit	8
+Board Part	8
+Board Extension	8
+oemirot configuration	8
+NS appli primary offset	8
+Code generator	8
+Board Component	8
+This Port Com Is Not Available	7
+step 1	7
+Save Project As	7
+Script support is not enabled	7
+DDR Test Suite Error	7
+step 2	7
+Software Packs	7
+ARM Cortex-M33	7
+Char array buffer	7
+Header value is null	7
+File System	6
+RIMU IP	6
+Compiler Optimizations	6
+RISAF Region ID	6
+EEE, dd MMM yyyy HH:mm:ss zzz	6
+RIMU ID	6
+Matthew Wright	6
+Default Configuration	6
+Sub-Zone Name	6
+Is the firmware full secure	6
+MMM d, yyyy	6
+Template Settings	6
+Not yet available	6
+Resource CID	6
+Master CID4	6
+RIF-Aware IPs	6
+Unable to instantiate Object	6
+do not care	6
+Hex format	6
+Minimum Heap Size	6
+Master CID3	6
+Number of images managed	6
+Invalid value given	6
+Vdd Changed	6
+Clock Configuration	6
+Master CID2	6
+Application Structure	6
+The classes share no relation	6
+Firmware download area offset	6
+TAMP Size	6
+Incomplete document	6
+Achilleus Mantzios	6
+Advanced Settings	6
+MASTER CID	6
+Resource isolation framework	6
+Enable Full Assert	6
+Optimize Speed	6
+System Mode	6
+Hans-Jurgen Greiner	6
+Temperature Changed	6
+Master CID1	6
+The partial must not be null	6
+Thomas Morgner	6
+NO WARRANTY	6
+TAMP End Address	6
+RIF Configuration	6
+DDR width	6
+JsonReader is closed	6
+Not a valid Boot Path	6
+Clone error	6
+Minimum Stack Size	6
+Master CID5	6
+Optimize Size	6
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION	6
+Series Title	6
+File Manager	6
+Thomas Meier	6
+ARM Cortex-A35	6
+Null 'paint' argument	6
+CID Filtering	6
+GNU GENERAL PUBLIC LICENSE	6
+ARM Cortex-M55	6
+Boot Path not Found	6
+The given configuration is null	6
+Null 'order' argument	6
+Anthony Boulestreau	6
+Unable to write RenderingHint	6
+Master CID0	6
+Mark Watson	6
+Nb Backup Registers	6
+Scheme registry	6
+END OF TERMS AND CONDITIONS	6
+Generate Under Root	6
+Session input buffer	6
+Please enter it in next window or manage it in the menu	6
+Project Manager Settings	6
+Project Structure	6
+Jeremy Bowman	6
+Sub-Zone Size	6
+Ty Coon, President of Vice	6
+Boot ROM	6
+The Character must not be null	6
+Krzysztof Paz	6
+Unexpected event received	6
+Given object is null	6
+COM not initialized	6
+Rimu Table	6
+Master CID6	6
+EEE, dd MMM yyyy HH:mm:ss z	6
+EEE MMM d HH:mm:ss yyyy	5
+Run test	5
+Compare Projects	5
+DDR density	5
+Zooming Out	5
+Parameter name	5
+Auth scheme	5
+Cannot construct type	5
+Rotate 90	5
+EEE, dd-MMM-yy HH:mm:ss zzz	5
+new value	5
+Nothing is configured	5
+test help	5
+Pinout & Configuration	5
+Zooming In	5
+Smps Changed	5
+Data Exchange	5
+Response factory	5
+List of cookies	5
+SPEED BIN GRADE CONFIG	5
+STM32Cube FW_	5
+In DS Table	5
+Buffer size	5
+BBoot path configuration is unavailable when Trust zone is disabled	4
+Binary input file	4
+Port Com Is Available	4
+Not Defined	4
+MIf this box is checked, use the default STM32CubeProgrammer Path Installation	4
+Configurable Parameters	4
+Closing expired connections	4
+undoes the last action	4
+Before Code Generation	4
+CM4 booting, CM7 gated	4
+Choose DeviceTree Root Folder	4
+Destination Folder	4
+End address	4
+Add new IDE	4
+Peripheral Instance Name	4
+Printing not supported	4
+Both CPUs booting at once	4
+OEM-iRoT Location	4
+Warning: Code Generation	4
+Signal Pinning	4
+Manifest Version	4
+NS appli image generation	4
+Received cancel event	4
+Select COM	4
+Source Folder	4
+Collapse All	4
+Mcu and Firmware Package	4
+Boot Path Selection	4
+Zoom In	4
+BSoftware Pack Library files can be used only with MDK-GPDSC format	4
+Project Folder	4
+Linker Settings	4
+MMMM d, yyyy	4
+Pin Locking	4
+Local Firmware	4
+Pin Name	4
+The field must be supported	4
+OpenSTLinux Settings	4
+Selected Templates	4
+Memory Size	4
+CPU Frequency Changed	4
+Generated files	4
+Python Machine Path	4
+Connection reuse strategy	4
+Only Secure	4
+Process is not alive	4
+Warning: Save Project As	4
+DeviceTree Root Location	4
+Connection operator	4
+Firmware binary input file	4
+Use Default Reference Location	4
+Bottom view	4
+Unterminated string	4
+Parsing not supported	4
+Invalid path	4
+After Code Generation	4
+Invalid encoding	4
+Use default location	4
+Range Changed	4
+No formatter supplied	4
+Choose Template Folder	4
+IBoot path configuration is available only when secure project is selected	4
+Dual Core Boot Mode	4
+TPC wait interrupted	4
+Peak Consumption	4
+Error: Pinout Compatible	4
+Programming Failed	4
+ThirdParty plugin not available	4
+Power Level	4
+Calculation Precision	4
+Open Folder	4
+Average Consumption	4
+Set config to modified	4
+Middleware and Software Packs	4
+None: custom mode	4
+image fetch aborted or errored	4
+Firmware image generation	4
+Function Name	4
+Select an MCU from the list	4
+Select a STM32Cube Package File	4
+Use Default Path	4
+MMM d yyyy	4
+Save As CSV File	4
+Thread-safe Locking Strategy	4
+Config Files Location	4
+Warning: Project Structure	4
+Zoom Out	4
+VS Code	4
+Literal must not be null	4
+The divisor must be at least 2	4
+Only Non Secure	4
+Authentication Manager	4
+Release CPU2	4
+Use latest available version	4
+MMM d HH:mm	4
+Windows NT	4
+Manifest Content	4
+The instant must not be null	4
+Boot Path Image	4
+Number of GPIOs	4
+Thread-safe Settings	4
+DConnection class mismatch, connection not obtained from this manager	4
+Battery Changed	4
+Connection has been shut down	4
+Log4j Log Messages	4
+Select your templates	4
+Change on peripheral selection	4
+Toolchain Folder Location	4
+Debug Authentication	4
+Start process	4
+The type must not be null	4
+STM32CubeProgrammer Path	4
+Firmware execution area offset	4
+Edit Config Files	4
+No Configuration	4
+Pin Stacking	4
+walk error	4
+Register CallBack	4
+Pin reservation	4
+New Project	4
+Mcu Reference	4
+auth done	4
+pattern must not be null	4
+OEM-uRoT Location	4
+HAL Settings	4
+Proxy host	4
+Reset used GPIOs	4
+Top view	4
+Project Location	4
+Total capacity changed	4
+System Properties	4
+LPBAM Settings	4
+Reference Location	4
+CM7 booting, CM4 gated	4
+Enable multi-threaded support	4
+Conly single argument resource collections are supported as archives	4
+Memory Region	4
+STM32Cube Updater	4
+This Port Com Is Not Responding	4
+Set unused GPIOs	4
+Zone2 ReadNS WriteS	3
+overflow: mulPos	3
+Add Queue	3
+windows xp	3
+GAssign memory region to Master CID 2 and set the access right Privilege	3
+Oscillator Changed	3
+GPIO Feature P	3
+Pascal Collet	3
+No access	3
+David M. O'Donnell	3
+Peter Becker	3
+MMM d, y	3
+Interpolation range Changed	3
+Add Step	3
+Requires 'ySamples' > 0	3
+Null 'firstBarPaint' argument	3
+Item to find must not be null	3
+Linux kernel memory over 2GO	3
+User Consumption Changed	3
+Default Group	3
+Xavier Poinsard	3
+The validated object is null	3
+end < start	3
+GAssign memory region to Master CID 3 and set the access right Privilege	3
+Check Connection	3
+CValues less than or equal to zero not allowed with logarithmic axis	3
+Category 1	3
+BAssign memory region to Master CID 3 and set the access right Read	3
+CID of Resource 0	3
+Polar Zoom In	3
+Scott Sams	3
+Expand All	3
+Unable to read configuration	3
+User Label	3
+CAssign memory region to Master CID 1 and set the access right Write	3
+Unterminated escape sequence	3
+CAssign memory region to Master CID 0 and set the access right Write	3
+Unexpectedly interrupted	3
+Daniel Gredler	3
+eSGNU LESSER GENERAL PUBLIC LICENSE	3
+Start Address Offset	3
+Remote address	3
+Category 5	3
+Tomer Peretz	3
+DDR Test Suite	3
+Feature ID	3
+BAssign memory region to Master CID 0 and set the access right Read	3
+Alex Weber	3
+Darren Jung	3
+Lock not held	3
+Not Found	3
+Zoheb Borbora	3
+Rotate clockwise	3
+Video decoder	3
+ci systemowe	3
+EEE, dd-MMM-yy HH:mm:ss z	3
+Multiple Pie Plot	3
+Diego Pierangeli	3
+BAssign memory region to Master CID 5 and set the access right Read	3
+Flip Horizontal	3
+Null 'xRange' argument	3
+Jody Brownell	3
+Flip Vertical	3
+Security of each region	3
+Video encoder	3
+Privilege of each region	3
+overflow: too large to negate	3
+Eric Thomas	3
+BAssign memory region to Master CID 1 and set the access right Read	3
+Save Project	3
+Upgrade lock	3
+David Li	3
+Michael Siemer	3
+Xun Kang	3
+IBM Public Licence	3
+Request line	3
+Rich Unger	3
+Manage interrupts	3
+SoC ODT	3
+Pin Nb	3
+Cameron Riley	3
+Access right Privilege	3
+The Writer must not be null	3
+Time Series Chart Demo 1	3
+BAssign memory region to Master CID 4 and set the access right Read	3
+unspecified in c'tor	3
+David Forslund	3
+Jon Iles	3
+Cameron Hayne	3
+Stopwatch has not been started	3
+Gideon Krause	3
+CAssign memory region to Master CID 4 and set the access right Write	3
+loggerConfig is null	3
+propiedades del Sistema	3
+Norbert Kiesel	3
+Oscillator Frequency Changed	3
+David Basten	3
+plot is not a PolarPlot	3
+Peter Kolb	3
+Tag name must not be null	3
+User name	3
+GAssign memory region to Master CID 5 and set the access right Privilege	3
+Generate Report	3
+Invalid escape sequence	3
+tool version	3
+Brian Cole	3
+MMMM d, y	3
+ID of each Risab memory region	3
+The filters must not be null	3
+The String must not be empty	3
+RCC Feature CK_MCO	3
+Requires 'samples' > 1	3
+Cannot parse date	3
+IP IAC ACTIVATION	3
+Error creating temporary file	3
+Eric Alexander	3
+Dan Rivett	3
+GAssign memory region to Master CID 6 and set the access right Privilege	3
+Nicolas Brodu	3
+Resetting target auth state	3
+EXTI index	3
+overflow: can't negate	3
+LTDC secure layer	3
+The class must not be null	3
+Resources must not be null	3
+Number format exception	3
+Andreas Schneider	3
+Locale must not be null	3
+Panel #1	3
+Informacja o	3
+Connection keep alive strategy	3
+The validated map is empty	3
+screen resolution dpi	3
+Unknown Source	3
+Error in updater settings	3
+Null 'lastBarPaint' argument	3
+Error during global lookup	3
+Bar Chart Demo 1	3
+Mode Changed	3
+The fraction must not be null	3
+Request aborted	3
+Please cancel download	3
+Panel #2	3
+Session output buffer	3
+InfiniteLoop in resource lookup	3
+Not Used	3
+resolve clock issues	3
+The List must not be null	3
+BAssign memory region to Master CID 6 and set the access right Read	3
+Not in DS Table	3
+Unterminated comment	3
+CID of Resource 1	3
+Project 2	3
+Wolfgang Lenhard	3
+Animation Synchronization Mutex	3
+Craig MacFarlane	3
+Duplicate Step	3
+HSEM RIF ID	3
+EEEE, MMMM d, y	3
+Client connection manager	3
+Element y not specified	3
+No data available	3
+Nazwa w?a	3
+David Berry	3
+not set	3
+new column	3
+Pady Srinivasan	3
+User Defined Packs Manager	3
+RCC Feature MCO	3
+Price Per Unit	3
+User Cancel Download	3
+Jonathan Nash	3
+Serge V. Grachov	3
+Eduardo Ramalho	3
+Darshan Shah	3
+The field name must not be null	3
+The string must not be null	3
+Martin Hoeller	3
+Rotated Text	3
+Jonathan Gabbai	3
+Status line	3
+EEEE, MMMM d, yyyy	3
+Invalid bounds	3
+Don Elliott	3
+State is not valid	3
+IP Name	3
+Only one series for contour	3
+Element x not specified	3
+The validated state is false	3
+TextBlock Demo	3
+Element width not specified	3
+Resetting proxy auth state	3
+ERROR : Relative To String	3
+DQ ODT	3
+Michel Santos	3
+LTDC secure rotation	3
+Unexpected value	3
+Close Project	3
+Roger Studner	3
+Arguments cannot both be null	3
+DCortex-A35-Cortex-M33 non secure shared memory Linux reserved memory	3
+Polar Auto Range	3
+Panel #4	3
+Chris Boek	3
+Root handler must not be null	3
+Secure the memory region	3
+Michael Rauch	3
+Polar Zoom Out	3
+No time zone indicator	3
+Load Project	3
+Array is empty	3
+No file	3
+Category 4	3
+Stream closed	3
+Parent given must not be null	3
+Pierre-Marie Le Biot	3
+overflow: add	3
+Unknown data	3
+Soren Caspersen	3
+Arnaud Lelievre	3
+Andrzej Porebski	3
+Nabuo Tamemasa	3
+Tin Luu	3
+David Browning	3
+Need an array class	3
+gpu reserved area	3
+TAMP BKP_REG Zones	3
+CAssign memory region to Master CID 2 and set the access right Write	3
+Mofeed Shahin	3
+Pie Chart Demo 1	3
+Is no instance of java.net.URL	3
+BaseClass must not be null	3
+Unable to load class	3
+os locale	3
+overflow: gcd is 2^31	3
+Project 1	3
+BAssign memory region to Master CID 2 and set the access right Read	3
+startIndex must be valid	3
+Sleepy End Device	3
+BaseName must not be null	3
+Wolfgang Irler	3
+Problem, Http access forbiden	3
+empty region	3
+RISAB Region ID	3
+Encrypt the memory region	3
+Owner Of each region	3
+Too many elements	3
+Laurence Vanhelsuwe	3
+CA ODT	3
+GAssign memory region to Master CID 4 and set the access right Privilege	3
+Peripheral ID	3
+os version	3
+Paolo Cova	3
+How to Apply These Terms to Your New Programs	3
+Greg Steckman	3
+key cannot be null	3
+Windows 9	3
+Panel #5	3
+Failed to load properties	3
+risab mainpanel	3
+Threshold must not be negative	3
+Requires 'xSamples' > 0	3
+IndentString must not be null	3
+Jim Moore	3
+Proxy required	3
+Bill Kelemen	3
+overflow: mul	3
+TAMP Start Address	3
+Input stream	3
+Cortex-A35 OP-TEE secure OS	3
+Bryan Scott	3
+Tobias Selb	3
+Christian W. Zuckschwerdt	3
+Sequence Generator	3
+CAssign memory region to Master CID 6 and set the access right Write	3
+Request for clean sequence	3
+Klaus Rheinwald	3
+Unable to write element	3
+Content pane can't be null	3
+BL31 device tree and context	3
+predicate must not be null	3
+The wildcard must not be null	3
+Overlapping bin	3
+Null 'type' argument	3
+Aaron Metzger	3
+No information	3
+not available	3
+Category 3	3
+Updater Settings	3
+Spider Web Plot	3
+Jean-Luc SCHWAB	3
+Not implemented in SegmentRange	3
+INFINITE TEST	3
+How to Apply These Terms to Your New Libraries	3
+length must be valid	3
+Unable to invoke bean method	3
+Trying to close windows	3
+STM32WBx0 Value Line	3
+GAssign memory region to Master CID 1 and set the access right Privilege	3
+VOS0: Scale0	3
+Show Advanced Parameters	3
+Nom de la Propri	3
+Sylvain Vieujot	3
+End of input	3
+Connection is not open	3
+Irv Thomae	3
+Ulrich Voigt	3
+peripheral instances list	3
+Martin Cordova	3
+CAssign memory region to Master CID 5 and set the access right Write	3
+Auto Range	3
+Benoit Xhenseval	3
+Expected 'parameter' tag	3
+Hello World	3
+baseTimeline is not aligned	3
+Spare for Cortex-M33	3
+date must not be null	3
+Unable to write header	3
+AThe "input" and "inputstring" attributes cannot both be specified	3
+value is required	3
+Yan Liu	3
+Chart image not found	3
+File may not be null	3
+Arik Levin	3
+Viktor Rajewski	3
+Eric Penfold	3
+windows vista	3
+Zone1 ReadS WriteS	3
+Request for save sequence	3
+RenderingHints given are null	3
+Full access	3
+Element height not specified	3
+Unterminated object	3
+Category 2	3
+EXTI RIF ID	3
+Barak Naveh	3
+Given object is no array	3
+CID of Resource 2	3
+Strings must not be null	3
+JFreeChart - No path exists	3
+FUser can lock the peripheral , each element can be locked individually	3
+Aiman Han	3
+IllegalAccessException occurred	3
+Richard Atkinson	3
+CAssign memory region to Master CID 3 and set the access right Write	3
+Name not specified	3
+SecurityException occurred	3
+Expected name	3
+Expected 'type' tag	3
+Paul English	3
+Chuanhao Chiu	3
+ST INTERNAL TEST	3
+Adriaan Joubert	3
+DateChooserPanel Demo	3
+Import Error	3
+yyyy-MM-dd HH:mm:ss,SSS	3
+The style must not be null	3
+RifConstants class	3
+init battery	3
+DrawString Demo	3
+Element is null	3
+Mike Duffy	3
+Invalid parameter	3
+Thierry Saura	3
+Risup Table	3
+The Range must not be null	3
+Minimum abbreviation width is 4	3
+Memory regions configuration	3
+Joao Guilherme Del Valle	3
+Zone3 ReadNS WriteNS	3
+Linux kernel memory	3
+hh:mm:ss a	3
+target object must not be null	3
+Source enabled	3
+Excel files	3
+Memory Changed	3
+GAssign memory region to Master CID 0 and set the access right Privilege	3
+Sergei Ivanov	3
+The validated array is empty	3
+Greg Darke	3
+No value	3
+Jelai Wang	3
+Font Selection	3
+Unterminated array	3
+null comparator	3
+Parser cursor	3
+params can't be null	3
+Expected value	3
+Daniel van Enckevort	3
+bin width	3
+Gerald Struck	3
+Destinaton folder not writable	2
+Remember my Credentials	2
+Packages Manager	2
+No check	2
+JBoot path configuration is available only when Python machine is installed	2
+User token handler	2
+Client closed connection	2
+Connection already shutdown	2
+Show unsupported packs	2
+Status code	2
+DateTimeZone must not be null	2
+sentinelClass cannot be null	2
+The offset cannot be zero	2
+After Deleting	2
+No error	2
+VOS2: Scale2-Medium	2
+Please wait for the download to complete and retry	2
+Data download area offset	2
+Fields invalid for add	2
+Board Name	2
+infinite write for jedec	2
+Skip after end of file	2
+CONFIG 0	2
+Choose Project Folder	2
+project path	2
+CONFIG 6	2
+MCU Pin number	2
+Software Folder Access Error	2
+STM8CubeMX Update	2
+Proxy Server Type	2
+File not found	2
+UTC chronology must not be null	2
+Connection is already tunnelled	2
+Signal Name	2
+Connection manager	2
+Connection pool shut down	2
+Non Secure	2
+no resources specified	2
+URI request pattern	2
+MCU Series	2
+project toolchain	2
+Import Project Settings	2
+Connection settings	2
+LPBAM Scenario & Configuration	2
+Interval must not be null	2
+project setCustomFWPath	2
+Not Connected	2
+Gnome uses no proxy	2
+Using swing	2
+Parameter Settings	2
+Reference Manuals	2
+Load selected File OK	2
+invalid number of X	2
+The scalar must not be 0 or 1	2
+OEM iRoT on going	2
+length out of range	2
+Additional Software	2
+ST-iRoT--> uRoT	2
+init change battery event	2
+Clear Pinouts	2
+OK, Import	2
+Reset the pinout configuration	2
+Clear Single Mapped Signals	2
+Content length strategy	2
+Select an existing project	2
+save project setting	2
+Proxy HTTP	2
+project generateunderroot	2
+SWT winmgr **not** Initialized	2
+SSL socket factory	2
+MCU name	2
+Field type must not be null	2
+Unable to close stream	2
+OEM iRoT	2
+Too many time zone ids	2
+Information available on Wiki	2
+Low Power Mode	2
+No printer or parser supplied	2
+CLI files	2
+Next proxy	2
+infinite read for jedec	2
+Remove selected Firmware	2
+Map Iterator	2
+Invalid UTC zone provided	2
+Scheme name	2
+Reference Manual	2
+Software to browse ST MCUs	2
+Content length	2
+User Cancel	2
+Cancel Update	2
+line number	2
+project compiler	2
+Set Connection	2
+ANT PROPERTIES	2
+Fproject set heapsize <heapsize>: set minimum heap size for single core	2
+Offset is too large	2
+Enter User Label	2
+storepass attribute must be set	2
+Script Execution is Completed	2
+Problem in GPDSC Generation	2
+Edit Step	2
+Pin Reserved	2
+IDE Mode	2
+Proxy authentication strategy	2
+GCC Toolchain	2
+Select an Application	2
+project get heapsize	2
+STM32CubeMX Update	2
+Using WPAD to find a proxy	2
+OYou have used an attribute or nested element which is not compatible with spawn	2
+Invalid destinaton folder	2
+Checking license	2
+IP Handle name	2
+dest attribute is required	2
+Docs  & Resources	2
+Expand all categories	2
+Specified date does not exist	2
+Export to Excel	2
+Show power domain	2
+invalid dialog mode	2
+Peripherals & Middleware	2
+This is 32 Bit VM	2
+CAS lat	2
+Data Auto-Refresh	2
+Invalid Constraint	2
+MIN > MAX	2
+infinite read for jedec test	2
+Not installed	2
+MCUs Filters	2
+Problem, Http timeout	2
+Do Not Generate Function Call	2
+Go to Extended Mode	2
+Context Execution view	2
+copy only	2
+List Pinout Compatible MCUs	2
+Printing is not supported	2
+Address map	2
+XML location	2
+Require Authentication	2
+The time must not be null	2
+Not supported	2
+Generate DA Folder	2
+Find Peripheral	2
+set Ip driver	2
+Invalid value	2
+New Project from Example	2
+Id must not be null	2
+Connection or proxy problem	2
+User Actions	2
+only one resource can be tested	2
+Keep Current Signals Placement	2
+Socket is closed	2
+project generate	2
+No position has been marked	2
+Show deprecated packs	2
+Style '--' is invalid	2
+Operation interrupted	2
+Restore Default Settings	2
+The field type must not be null	2
+Directory must not be null	2
+Values array must not be null	2
+Using external SWT winmgr	2
+Missing attribute : vendor	2
+New Library Manager	2
+Property name can not be null	2
+Pin Security assignment	2
+NOT 32 Bits nor 64	2
+project set heapsize	2
+project set stacksize	2
+max instances	2
+DejaVu Sans	2
+Exit STM32CubeMX	2
+GRestore the board pinout configuration when the BSP feature is not used	2
+Unknown Pin	2
+TPC is already running	2
+High Power Mode	2
+Open Project	2
+Connection is already open	2
+New Project from a Board	2
+Checking Peripheral status	2
+Not implemented	2
+Connection manager shut down	2
+DNS resolver	2
+Back To Default Sequence	2
+Current Config Refrech	2
+Settings for software Project	2
+constant Name	2
+Generate Text Report	2
+Bus Frequency	2
+print mstr	2
+Not Present	2
+Cookie name may not be empty	2
+map.properties file not found	2
+Eproject toolchainlocation <toolchain location>: set toolchainlocation	2
+Define your boot Path	2
+null treeTable	2
+project save	2
+Without filters	2
+Disable All Modes	2
+Verify that you load a jar file	2
+Show contexts	2
+Cannot access method	2
+Username:password string	2
+project set heapbycontext	2
+ST iRoT	2
+Alternate Function	2
+STM32CubeProgrammer version	2
+String pool is too large	2
+Request factory	2
+No field to apply suffix to	2
+Iproject set stacksize <stacksize>: set minimum stack size for single core	2
+No System Proxy  available	2
+CPU Frequency	2
+Timeout: killed the sub-process	2
+By Mhz	2
+Programming ongoing	2
+Mproject set heapbycontext <shortname> <heapsize>: set minimum heap by context	2
+Swap pins	2
+Disable Auto Refresh	2
+predicate list must not be null	2
+invalid weight	2
+Download Updater File	2
+STM32CubeUpdater Update	2
+Search Options	2
+MCU Package	2
+CONFIG 3	2
+Project not saved	2
+Check File type	2
+Python Machine Location	2
+cThe selected Firmware should contain at least 'Drivers	2
+MCUs List	2
+Restore Defaults	2
+Request URI	2
+Please enter a string to search	2
+CONFIG 1	2
+Boot Path	2
+STM32Cube MCU Packages	2
+Pinout Configuration	2
+name is null	2
+infinite write for jedec test	2
+KAutomatically refresh data and technical documentation at application start	2
+Close unexpected dialog	2
+failed with return code	2
+Stale connection check	2
+Using System Proxy	2
+BUILD FAILED	2
+No printer supplied	2
+OEM-iRoT--> uRoT	2
+CClass is invalid	2
+Request execution failed	2
+Low Power	2
+pcc step	2
+Gspawn does not allow attributes related to input, output, error, result	2
+Download selected Files	2
+Problem in jar file	2
+dummy1, dummy2	2
+Invalid encrypted string format	2
+auth return	2
+Key not found	2
+Delete an Application	2
+Code Generation	2
+STM32CubeProgrammer v	2
+Best fit	2
+Method name	2
+No measurement	2
+Read after end of file	2
+this code must not be reached	2
+Select an import project	2
+Manual Check	2
+Route tracker	2
+GPIO Type	2
+Set Iterator	2
+file attribute required	2
+Check Software	2
+MPU Sub System	2
+TPC success	2
+less than one hour	2
+old value	2
+Incomplete parser array	2
+If the project is not created now, you will be asked for a report file name	2
+Modification Date	2
+Code Generation Settings	2
+Startup Settings	2
+Output session buffer	2
+Running Low Memory	2
+LThe selected Python Machine location must contains a Python Executable Files	2
+expand complete	2
+Enter myST account information	2
+AIllegal row passed as argument of SequenceTable.getAverageCurrent	2
+resource is required	2
+Pin Unstacked	2
+Prefix not followed by field	2
+Maximum value exceeded for add	2
+No file directory provided	2
+VOS3: Scale3-Low	2
+file name	2
+STM32CubeProgrammer Location	2
+Cannot create TPC file path	2
+Parent is visible	2
+CONFIG 5	2
+No class provided	2
+callerPredicate cannot be null	2
+Ignore System Pins	2
+Toolchain Settings	2
+Checking application status	2
+initialising SWT winmgr	2
+Ignore Pinning Status	2
+Firmware Relative Path	2
+Connection kept alive	2
+Hop index	2
+Please wait a few moment	2
+Restore Pinout	2
+Sequence Configuration	2
+STM32H7B0 Value line	2
+Class Name	2
+Managed connection	2
+ARM Toolchain	2
+Category view	2
+Private key type	2
+Collapse all categproes	2
+Script Execution Started	2
+Pinout Compatible	2
+Field is not supported	2
+Instant must not be null	2
+get size	2
+Partial cannot be null	2
+No Version found	2
+null keys are not allowed	2
+remote host	2
+Generate PDF Report	2
+NOT YET SET	2
+Add a new Application	2
+Fail to create temp directory	2
+the source can't be a directory	2
+Reset all filters	2
+Types array must not be null	2
+Host name	2
+Received unzip cancel event	2
+Map of auth challenges	2
+Writing zoneinfo files	2
+publishing a request	2
+Back to Standard Mode	2
+STM32G0x0 Value line	2
+TPC or DB error	2
+Connection not open	2
+Unable to launch TPC	2
+Simple DataBus	2
+Toolchains Settings	2
+Interpreter not present	2
+Key location	2
+project get heapbycontext	2
+target name must not be empty	2
+Rule name mismatch	2
+TPC error	2
+Missing attribute : url	2
+DDR>info speed	2
+Download now	2
+Domain suffix rules	2
+No pdsc found	2
+Select a valid path	2
+Checking data consistency	2
+TYPE: L8	2
+Dynamical initializer column	2
+infinite write	2
+no conversion supported	2
+File is missing	2
+infinite read	2
+Check for Updates	2
+Show incompatible packs	2
+Load selected Files	2
+Couldn't get the updater plugin	2
+User Defined	2
+Windows Closed	2
+Licensing Agreement	2
+New version is available	2
+Programming aborted	2
+EThe Linker file have not been updated, Project will be not functional	2
+Battery Capacity not found	2
+Select a target MCU to export	2
+Add new Url	2
+unexpected end of stream	2
+Generate Project Report	2
+Reset to alphabetical order	2
+DDR>test help	2
+DDR Initialization KO	2
+Protocol version	2
+This is Solaris	2
+Check and Update Settings	2
+After Adding	2
+project get stacksize	2
+LPBAM codegeneration ongoing	2
+Signal Unpinning	2
+Graphical Boot Representation	2
+constant Value	2
+ARM Cortex-A	2
+memory dump	2
+Error in Project Generation	2
+Parsing is not supported	2
+input is empty	2
+is not supported	2
+DDR>step 3	2
+User Login	2
+Configuration Report	2
+Data download slot size	2
+Corrupt zone info map	2
+Pin Number	2
+Driver Selector	2
+Generate Project Reports	2
+project import	2
+invalid node type	2
+alias attribute must be set	2
+No current entry to close	2
+Image fetch aborted	2
+Cannot save downloaded File	2
+PDF Report	2
+Show Only Packs with Label	2
+Partial must not be null	2
+Missing myST information	2
+Imported Project	2
+Target authentication strategy	2
+not selected	2
+Use Default Firmware Location	2
+No parser supplied	2
+Native library not initialized	2
+MCU Line	2
+Pool entry	2
+DDR>step 1	2
+Not to be generated	2
+project get stackbycontext	2
+Problem during Download of File	2
+VF C	2
+Sequence Time	2
+Domain type	2
+Choose Report name	2
+Native Method	2
+Using No Proxy	2
+Automatic Check	2
+Cannot access field	2
+Writing ZoneInfoMap	2
+Connection & Updates	2
+Choose Script File	2
+FSBL is not supported	2
+Header iterator	2
+Mconfiguration needs to be set when there are additional fields with variables	2
+No resource path provided	2
+No Proxy	2
+Pins Configuration	2
+SSL context	2
+This is Unix or Linux	2
+Standard Mode	2
+Signals to remap	2
+Path does't exist	2
+Checking package integrity	2
+Advertising Channels	2
+Not IDE Mode	2
+Generate CSV pinout text file	2
+bThe selected Firmware should contain at least 'Drivers	2
+Context Initialization view	2
+Choose Code generation Folder	2
+CSV file generation	2
+DDR>step 2	2
+Add Toolchain	2
+xx_HAL_Driver' and 'Drivers	2
+disable project generate	2
+User Constants	2
+Invalid pattern specification	2
+Connection already open	2
+offset out of range	2
+bad property name	2
+Rotate counter clockwise	2
+Unknown filter	2
+initial sequence	2
+This is Mac	2
+Authentication Error Manager	2
+Use System Proxy Parameters	2
+Connection Parameters	2
+Pool entry with no connection	2
+OEMiRoT_Boot detected errors	2
+project set stackbycontext	2
+Invalid format	2
+Calling iastool	2
+This is Windows	2
+property attribute required	2
+Tutorial Videos	2
+digital unix	2
+CONFIG 4	2
+project couplefilesbyip	2
+Gproject get heapbycontext <shortname>: get minimum heap size by context	2
+mcuFinder Update	2
+PCC Sequence - do not modify	2
+Download Updater Control File	2
+Repository Folder	2
+Mark not supported	2
+Power Domain view	2
+CONFIG 2	2
+No function selected	2
+table must not be null	2
+DDR Test Suite Info	2
+Stale connection detected	2
+project toolchainlocation	2
+New Project from Cross Selector	2
+Pinout View Colors	2
+No parsers supplied	2
+BCMAKE is not supported for a project with any configured boot path	2
+You are already connected	2
+Can't set parent on root view	2
+Down step	2
+Not supported yet	2
+Software Project	2
+Input session buffer	2
+Choose Firmware Folder	2
+Period must not be null	2
+released SPACE	2
+Check Firmware & Software	2
+Failed to open URL	2
+Undefined Project	2
+dd MMM yyyy HH:mm:ss,SSS	2
+Firmware Repository	2
+VOS1: Scale1-High	2
+copy as reference	2
+Pin unlocking	2
+Pin Type	2
+filterComponent is null	2
+Ignore Power Pins	2
+api version	2
+TPC not available	2
+Up step	2
+Load selected File	2
+MACOS PETER	2
+Buffer capacity	2
+DDR>step 0	2
+Component Version is invalid	2
+Error in array definition	2
+Detecting Gnome proxy settings	2
+IAR Toolchain	2
+ST iRoT on going	2
+UserAction ProgressBar	2
+not same folder structure	2
+This is 64 Bit VM	2
+info speed	2
+stream inactive	2
+yyyy-MM-dd HH:mm:ss z	2
+Access denied	2
+No property defined	2
+yyyy-MM-dd HH:mm:ss.SSS	2
+Unknown OS type	2
+Connection must be open	1
+Using manual Proxy	1
+No valid TutoVideoDB available	1
+JDOM error when fetching vdd values	1
+resetting socks proxy	1
+Partial Content	1
+Library has been unloaded	1
+No member provided	1
+case 2	1
+Tinfinite read for jedec	1
+No Content	1
+Internal Server Error	1
+The location is null	1
+Search position	1
+JarIndex-Version: 1.0	1
+Power Domain	1
+DThe specified algorithm is not available from the specified provider	1
+component must be not-null	1
+Broken input stream	1
+Manual Import	1
+feature name should not be null	1
+No SMPS	1
+Generate Report Error	1
+EYour DOM provider doesn't support the createElementNS method properly	1
+defaultColor cannot be null	1
+JDOM error when fetching temperature values	1
+Null options field	1
+Unexpected token: n	1
+NumberFormatException caught when fetching datasheet data	1
+Notify proxy connection status	1
+Ending download Thread	1
+tft controller	1
+deleted symlink	1
+BNo change of permissions for jspawnhelper needed on non linux OSes	1
+Connected Slave	1
+Pdsc check cancelled	1
+List of proxies	1
+Missing version header	1
+cpload project2	1
+Invalid upgrade parameter	1
+No Filter	1
+Secure session established	1
+Bad label	1
+Parameter 'fileFilter' is null	1
+Search upgrade utility in pdsc	1
+Dnested mapper or one of the attributes type or classname is required	1
+No suitable Log implementation	1
+Launcher must have a name	1
+Port is invalid	1
+Subentry has been connected	1
+activating auth plugin	1
+Unreachable code	1
+infinite write for jedec 16 bit	1
+Software component selection	1
+invalid alpha value	1
+Peripherals Selection	1
+Updater Post install on CubeMX	1
+Wrong signature	1
+analytics enabled	1
+Precondition Failed	1
+Ending populate Thread	1
+EProperties declaration must be the first element in the configuration	1
+Temperature must be selected	1
+detail component cannot be null	1
+Apply proxy settings	1
+inputEncoding must not be null	1
+Unable to pause the service	1
+Empty JSON string	1
+Input connection is null	1
+use strict	1
+value was applied	1
+Power Amplifier	1
+Deflating pattern entry	1
+EEE dd MMM yyyy HH:mm:ss z	1
+Cookie handler	1
+list must not be null	1
+Name value pair	1
+No mapping for %02x	1
+Line Sep	1
+Load project 2 then try again	1
+yyyy-MM-dd HH:mm	1
+Add plugin view debug	1
+Fail to unzip pack file	1
+The size must be non-negative	1
+Error releasing connection	1
+invalid orientation	1
+Missing attribute : name	1
+Proxy information	1
+Failed to rename folder	1
+Full Location	1
+Cannot parse timestamp	1
+extension restriction	1
+reason attribute is required	1
+DDR utilities binary file	1
+authInfo type	1
+You are using MAC	1
+New Project from File menu	1
+newest source	1
+Proxy Vole Tester	1
+Cannot connect and prepare	1
+pdscErrorCheck started	1
+Cannot access property	1
+TIMING MARK	1
+Sections must have a name	1
+AYou must specify value, location or refid with the name attribute	1
+Condition is null	1
+listing properties	1
+expected <!-- for comment start	1
+Auth scheme is null	1
+Wrapped entity	1
+Looking for version variants	1
+pack context	1
+List of IPs	1
+Starting download Thread	1
+yyyy-MM-dd HH:mm:ss.S a	1
+Cthe array of format strings must not must not contain null elements	1
+No column name provided	1
+LThe ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com	1
+Protocol FTP over HTTP	1
+Invalid empty type classname	1
+Wrong title argument	1
+Keystore URL	1
+unsupported constant type	1
+Outputs Sources	1
+Inform ThirdPartyPlugin	1
+Grab from Screen	1
+Object is not a list	1
+Other Core	1
+cannot write to nullstream	1
+Terms of Use	1
+Add User Battery	1
+The suffix must not be null	1
+delegate is null	1
+Start ChecksIntegrityThread	1
+Nothing to select	1
+ICannot write field as attribute for object, attribute name already in use	1
+Gateway Timeout	1
+Dswmgr set repository <full_repository_path> : Change repository path	1
+MM-dd-yy kk:mm	1
+Connection lost	1
+Service Unavailable	1
+Request-URI Too Long	1
+No pattern supplied on escape	1
+Power Socket	1
+Symmetric Active	1
+Remove not supported	1
+Empty dataHolder	1
+Owner PSID is invalid	1
+swmgr getSelectedDB	1
+Error reading tokens	1
+GIllegal row passed as argument of SequenceTable.getClockConfigFrequency	1
+Target Information	1
+No appender name provided	1
+ANested header or footer is incompatible with binary concatenation	1
+component is null	1
+ACannot write value as text of entry, if key is also child element	1
+Using MIME mail	1
+and the value is not .local	1
+unlocated label	1
+swmgr set proxy host	1
+Updater interrupted	1
+Unable to unregister MBeans	1
+Protocol minor version	1
+saved filter name	1
+License file reader	1
+Header element	1
+Open Tutorial Video menu	1
+Cannot create UUID instance	1
+Symlink not found	1
+Shutting down	1
+No type specified	1
+Unable to execute command	1
+out must not be null	1
+input stream can not be null	1
+Socket address	1
+Other cannot be null	1
+Package identifier	1
+No ConnectionSource provided	1
+Truststore file	1
+Only one tokenizer allowed	1
+Invalid path for CubeProgrammer	1
+Property 'ant.home' not found	1
+Updates are available	1
+Select Components	1
+TEST case in event 4	1
+After build in PCC	1
+Date value	1
+Compare Error	1
+Open Updater Control File Fail	1
+millis or dateTime is required	1
+Same projects loaded	1
+Select a version	1
+Files of Types	1
+TELOPT PRAGMA LOGON	1
+Create MacOs directory	1
+Empty stack	1
+null list	1
+Fafter xmlns in attribute name must be colonwhen namespaces are enabled	1
+STM32Cube MCU Package for STM32	1
+Cmsis pack pdsc name ok	1
+Unable set proxy informations	1
+pack disable	1
+new STM8CubeMX Release	1
+remove locks	1
+About STM32Cube Updater	1
+EEE, MMM dd yyyy HH:mm:ss.SSS	1
+cvsroot is required	1
+update file	1
+All defined tasks are available	1
+BLE Conditions	1
+Wake up the thread	1
+Planned route	1
+Error during MD5 compute	1
+Required packs	1
+Error setting up script engine	1
+STM32CubeUpdater Releases	1
+Fscriptdef requires a language attribute to specify the script language	1
+invalid arguments	1
+swmgr set proxy port	1
+No registerService method	1
+JYou must specify a property filename when using the -propertyfile argument	1
+No id for constructor property	1
+Event cannot be null	1
+Multi-core feature available	1
+using compare project	1
+real time clock	1
+No destDir specified	1
+Winfinite write for jedec	1
+Bad label for branch	1
+errorEncoding must not be null	1
+Could not create parser	1
+Reset Clock Configuration	1
+Arial Bold	1
+IP config	1
+Comparison done	1
+prompt must not be null	1
+Source byte array	1
+error code type	1
+SUPDUP OUTPUT	1
+Auto Refresh ON	1
+Monitor is already running	1
+generate client	1
+Manager is shut down	1
+Header name	1
+New packages are available	1
+Missing pattern in replaceregex	1
+The text attribute is required	1
+No dependency	1
+Error reading thumbnail	1
+Choose a color	1
+Too many items in collection	1
+Bundlename is invalid	1
+DDR>print mstr	1
+This is an IP Handle	1
+extensionPoint required	1
+archive attribute not set	1
+Priority out of range	1
+Array Iterator	1
+Cannot add component to pack	1
+Table not found	1
+Updater plugin retrieved	1
+End of CheckThirdParties Thread	1
+Base URI	1
+See Other	1
+CubeFW failed to create tmp dir	1
+Reset Layout	1
+Generator Status	1
+GCondition can be solved selecting components inside or outsite the pack	1
+Could not reconfigure JMX	1
+BCannot write attributes to map entry, if map entry must be omitted	1
+CurrentSet not defined	1
+JDOM caught when fetching xxx	1
+Attribute handler map	1
+Nothing to unselect	1
+Settings found	1
+Pdsc error getfocus event	1
+Borland deployment tools	1
+Invalid icon position	1
+Overridden by subclasses	1
+Using external javac compiler	1
+Tutorial Videos Browser	1
+End integrity checks thread	1
+property attribute is required	1
+Port selection	1
+Removed listener on zipPackFile	1
+Cmsis pack license not accepted	1
+Performing Substitutions	1
+OUTPUT MARKING	1
+Restore Default	1
+MimetypesFileTypeMap: load DEF	1
+usb 1.1	1
+Resize component	1
+null archive	1
+Security: Non Secure	1
+unknown composite rule	1
+Public suffix list	1
+Temperature Sensor	1
+Max line length	1
+See only favorite packs	1
+No more lines	1
+version length	1
+No message	1
+Invalid response code returned	1
+yyyy-MM-dd HH:mm:ss.S z	1
+Import Status	1
+This application region is no longer valid	1
+Cannot validate object	1
+file array contains null	1
+map cannot be null	1
+Connection evictor	1
+Base URI must be absolute	1
+Socket factory	1
+hardware semaphore	1
+No pack available	1
+Circular Mode	1
+solution exist	1
+Enabling system assertions	1
+EEE dd-MMM-yyyy HH:mm:ss z	1
+Cannot find attribute	1
+Dkey and value pairs must be specified for the ThreadContextMapFilter	1
+Window Closing event received	1
+Required compilers	1
+Undo Mode and pinout	1
+System Configuration	1
+file filter is null	1
+Deflating file entry	1
+SYSRAM Loading	1
+invalid target arg	1
+No tunnel without proxy	1
+Could not undo	1
+Content producer	1
+Peripheral List	1
+Heading 5	1
+Unexpected operands	1
+PCC Light mode running	1
+Error Illegal getPlugin	1
+Technical Docs	1
+Invalid pack or pdsc	1
+start updateBtnsStatus	1
+Coerced Interface	1
+Add to favorites	1
+ERROR IN IOC PARSING	1
+Shutdown interrupted	1
+root must not be null	1
+Kwhen namespaces processing enabled colon can not be at attribute name start	1
+Select your Preferred Display	1
+EEE,dd-MMM-yy HH:mm:ss z	1
+Authentication succeeded	1
+UNKNOWN METHOD	1
+Authentication required	1
+Pdsc schema check failed	1
+MailcapCommandMap: load SYS	1
+no accept matched	1
+Ambient Light	1
+Array of IP addresses	1
+Default Sequence	1
+renderer already bound	1
+End of DeleteFileThread Thread	1
+unset string value	1
+Unable to get create method	1
+CRLF expected at end of chunk	1
+GInfo: processing time > total network time by 1 ms -> assume zero delay	1
+Invalid size or count value	1
+Authentication failed	1
+Unexpected coder result	1
+end of stream	1
+Security: Secure	1
+DestDir not specified	1
+Component already disabled	1
+Gnome settings parse error	1
+yyyy-MM-dd HH:mm:ss	1
+task or type	1
+Point Light	1
+NVIC configuration	1
+lane byte clock cycles	1
+No name provided	1
+JDOM caught when fetching datasheet data	1
+Tasks availability	1
+Shutting down connection	1
+compilation failed	1
+low power timer	1
+Header list	1
+The parameter is null	1
+Image fetch interrupted	1
+the owner attribute is required	1
+Using Kaffe rmic	1
+Launcher JAR	1
+No length supplied on maxLength	1
+Client connection	1
+No hostname defined	1
+dname must be set	1
+AApache resolver library not found, internal resolver will be used	1
+handler label not defined	1
+object type	1
+Before build in PCC	1
+End of Local Load Thread	1
+HIllegal row passed as argument of SequenceTable.getAdditionalConsumption	1
+Mal formed logical expression	1
+Generate IRQ handler	1
+MCU Clock Frequency	1
+group id	1
+no property specified	1
+content tag	1
+Standard Zip Deflate	1
+Set proxyHostName preference	1
+DDR Interactive	1
+Engine error	1
+Annotations processed	1
+Idd CPU	1
+test 0	1
+Already registered option	1
+attribute namespace	1
+Try Import	1
+entry size	1
+pubKeyAuth type	1
+licenceAcceptanceCheck started	1
+Analytics plugin not available	1
+Using Non Tabbed software list	1
+Must specify Buildfile	1
+Content type	1
+Unsupported operating system	1
+Close current Project	1
+Missing from in stringreplace	1
+MCU Power Mode	1
+Invalid frequency	1
+Clock Tree Configuration	1
+SPEED BIN GRADE CONFIG1	1
+No mapper specified	1
+Initiating rollover at startup	1
+AuthScheme registry	1
+Unexpected EOF reached	1
+Apache Ant	1
+RestartCommand line	1
+HCGLIB enhanced proxies wit abstract nethod that has not been implemented	1
+Pack cannot be created	1
+Search Constants	1
+Starting handshake	1
+qspi memory	1
+loop in causal chain	1
+failed to create XZInputStream	1
+ANull mode passed as argument of SequenceTable.getPartSequenceTime	1
+String Iterator	1
+No pdsc in pack	1
+Updater is locked	1
+NumberFormatException caught when fetching TJMax	1
+Using gcj compiler	1
+Found unvisited items	1
+Library must be a proxy class	1
+JOnAS deployment tools	1
+You are using LINUX	1
+before processThirdParty	1
+Connection failure	1
+FIllegal row passed as argument of SequenceTable.getCore1PeripheralsSet	1
+DFailed to close database connection logging event or flushing buffer	1
+Connections per route	1
+File name is invalid	1
+solution exist with same path	1
+Authentication scope	1
+Failed to build packs database	1
+the file attribute is required	1
+source array too long	1
+minor device number	1
+ANull modesUsed passed as argument of SequenceTable.getConsoByMode	1
+Outputs Includes	1
+does not match	1
+issue here	1
+error while logging in	1
+ProgressBar Return now	1
+Failure Type	1
+User Constant Error	1
+Error initializing parser	1
+MM-dd-yy HH:mm	1
+and value were applied	1
+Add a Third Party	1
+No section found to add data	1
+NanoClock must be non-null	1
+Cannot modify system properties	1
+Error running Jikes compiler	1
+Inet address	1
+No pending modifications	1
+Unable to initialize LogBuilder	1
+Start PostCopy tasks for MacOs	1
+null component data adapter	1
+out of range short	1
+does not support	1
+Start download	1
+Empty InputStream	1
+invalid brightness value	1
+Confirm Password	1
+Mode key found: CMSIS_V2	1
+No pattern supplied on replace	1
+new STMCUFinder Release	1
+Catastrophic failure	1
+Only one nested element allowed	1
+Deflating zip	1
+Detected Gnome desktop	1
+Cloning not supported	1
+Unexpected token: t	1
+Allocate new buffer	1
+ARM Cortex-M7	1
+Invalid unzip location	1
+Closing connection	1
+No left hand side type provided	1
+Advertising Non Connectable	1
+Output buffer is closed	1
+Default era date pattern	1
+dangling file	1
+High Power	1
+Preferences can not be null	1
+Connection is closed	1
+LAST ACTION BEFORE EXIT	1
+MailcapCommandMap: load DEF	1
+EEE,dd-MMM-yyyy HH:mm:ss z	1
+MMM dd HH:mm	1
+Install new DB	1
+Add button	1
+No Firefox installation found	1
+Rename failed	1
+Load Registers	1
+Could not redo	1
+Software pack already exists	1
+Maximum output speed	1
+No conversion type provided	1
+Start of LoadUrlFiles NoThread	1
+Enable IPs from Pinout	1
+Enter the Function Name	1
+Bad label, no biscuit	1
+output file specified as null	1
+pack validate	1
+EEE dd-MMM-yyyy HH-mm-ss z	1
+doesn't resemble	1
+End ChecksIntegrityThread	1
+Zip entry found	1
+ARM Cortex-M4	1
+subjectPublicKey type	1
+Rename successfull	1
+Select a test	1
+Array of date patterns	1
+Header array	1
+Only one sequential allowed	1
+TELOPT SSPI LOGON	1
+Pin to pin compatibility	1
+Failed to locate	1
+endToken must not be empty	1
+Unknown child element	1
+File specified is a directory	1
+Projects not loaded	1
+No pattern supplied on equals	1
+adapter already bound	1
+system configuration controller	1
+STM32F7x0 Value line	1
+User credentials	1
+XSLT Processor information	1
+Remove button	1
+error setting up input stream	1
+Check for advertisement updates	1
+Authentication scheme factory	1
+management data input output	1
+Required languages	1
+Evaluation Board	1
+Search an Application Region	1
+JNA: Error creating structure	1
+invalid saturation value	1
+Using symantec java compiler	1
+Unknown Parameter	1
+NoSuchMethodException exception	1
+model can not be null	1
+Suggested videos	1
+Cannot assign object to type	1
+File entry not found	1
+JSetting input or output encoding is incompatible with binary concatenation	1
+end ghatherIpErrorStates	1
+invalid model	1
+EException occurred while using default keystore. This should be a BUG	1
+Add User SMPS	1
+Cannot parse value as duration	1
+model must not be null	1
+See only selected components	1
+Using modern compiler	1
+Enabled interrupt Table	1
+Starting populate Thread	1
+Writing on a closed stream	1
+End ThirdPartyModel Refresh	1
+Socket config	1
+Unprocessable Entity	1
+String must not be null	1
+Detected Unknown desktop	1
+Impossible Step Duplication	1
+Clear Recent Projects List	1
+Error in parsing	1
+ONull listOfChanges passed as argument of SequenceTable.addStepsToTableWithCheck	1
+System Views	1
+APremature end of chunk coded message body: closing chunk expected	1
+Window masking is not available	1
+Error during Check Update	1
+Use ZigBee	1
+JDOM error when fetching temperatures	1
+empty director	1
+basic several read write access	1
+Cannot set look and feel	1
+MimetypesFileTypeMap: load JAR	1
+You are using Windows	1
+Parameter file is null	1
+Requested Range Not Satisfiable	1
+Error creating a temporary file	1
+Add Application	1
+relativeExpiry < 0	1
+Restore cursor	1
+DATA ENTRY TERMINAL	1
+Split must have > 2 children	1
+null Rectangle	1
+Max Speed	1
+swmgr hello : say hello	1
+new MailcapFile: default	1
+OProperty Accessor name must start with 'get', or set the anotation 'name' value	1
+JDOM caught when fetching series data	1
+null tree	1
+IP mode	1
+FAnalytics can't access the server or it is deactivated from the server	1
+Comparison failed	1
+No target specified	1
+Marker name cannot be null	1
+JDOM caught when fetching package data	1
+Pack is already in repository	1
+Load project 1 then try again	1
+bad instance	1
+bad method type	1
+Create directory failed class	1
+Remove selected Third Parties	1
+Using progressbar in Panel	1
+Bad Request	1
+Length Required	1
+Direct call is not supported	1
+Error downloading index file	1
+serial audio interface	1
+Unknown file	1
+mode : fork 4	1
+Missing updater	1
+swmgr set proxy password	1
+At least one mode is set	1
+Not implemented any more	1
+Invalid PAC script URL: null	1
+No InputStream	1
+MNo step possible for SMPS, please disable SMPS checker or something something	1
+Nothing to test for falsehood	1
+GPIO mode	1
+Heading 2	1
+Attempt to modify sealed array	1
+all files are up to date	1
+null file	1
+swmgr set repository	1
+minY must be < to maxY	1
+serial peripheral interface	1
+Window cannot be null	1
+Other Controller	1
+input buffer is closed	1
+Color Dodge	1
+Loading DDR Registers to target	1
+Software Pack selected	1
+Outputs Groups	1
+no version	1
+log in done with success	1
+GIC Settings	1
+didn't replace anything	1
+LicenseAgreementCancel received	1
+Cannot set property	1
+archive is not a ZIP archive	1
+End of LoadServerUpdate Thread	1
+Added listener on zipPackFile	1
+Verify Repository	1
+Unable to unmap MappedBuffer	1
+error code length	1
+Socket is not connected	1
+Copy files to be preserved OK	1
+Flash Memory	1
+Software pack is missing	1
+loader is null	1
+BYTE MACRO	1
+Cannot read PDSC file	1
+Tx Current	1
+Invalid Date	1
+BCmsis pack name is invalid or not matching naming PDSC definitions	1
+OThis element is not available<br>  To enable it go back to IP RCC in Pinout Tab	1
+Missing nested element	1
+Start Address : 0x	1
+Redirecting input from file	1
+CubeFW Cleanup	1
+Application Region_	1
+Max per route	1
+Destination must not be null	1
+Queue is full	1
+Add IP Handle Label	1
+Pattern must be non-null	1
+bad locale format	1
+FFI types not initialized	1
+Write CheckUpdateFile Fail	1
+No method to add to	1
+Thin fin Transistor	1
+License acceptance phase	1
+Found tManifestDescription	1
+conversion failed	1
+Insufficient Space On Resource	1
+Only one nested fileset allowed	1
+Cookie 'domain' may not be null	1
+null argument	1
+Interrupt Table	1
+Invalid requirement	1
+CPU2 Frequency Changed	1
+fail to discover updaterType	1
+Exception in the updateTabIcons	1
+expected a Divider Node	1
+usb device	1
+Other Connector	1
+pack enable	1
+ds cannot be null	1
+ARM Cortex-M23	1
+New DataBase Folder Missing	1
+Unable to invoke create method	1
+Manifest Version found	1
+Component dependencies	1
+Failed to launch self-upgrade	1
+Unexpected token: f	1
+controller area network	1
+Environment: STM32CubeMX	1
+Request Timeout	1
+Bthe trim attribute is for use with the string length function only	1
+end checkBlockDiagramState	1
+swmgr hello	1
+Unsupported row type	1
+IRollingFileManager cleared thread interrupted state, continue to rollover	1
+Exception caught when fetching RamValueByMhz	1
+attribute name can not be null	1
+Unable to instantiate JMDNS	1
+null key	1
+SPEED BIN GRADE CONFIG2	1
+compression method	1
+bad array type	1
+Open CheckUpdatesFile OK	1
+Not Thread Safe	1
+Unexpected exception	1
+end updateBtnsStatus	1
+direct memory access	1
+quad spi memory interface	1
+OutputStream closed	1
+NTLM authentication failed	1
+Content has not been provided	1
+yyyy-MM-dd HH:mm:ss.SSS Z	1
+Other Sensor	1
+comes here 3	1
+host is	1
+clock set hclk	1
+Updater plugin not retrieved	1
+bad operand	1
+Source string	1
+Run the test to have a verdict	1
+Local HTTP parameters	1
+Bad Port	1
+null component	1
+Delegate comparator is missing	1
+Proxy HTTP processor	1
+there were no files to compile	1
+BOOTSTRAP COMPLETED	1
+Task is not done yet	1
+Already connected	1
+Pack has no MADE4STM32 label	1
+No StrSubstitutor was provided	1
+STM32CubeMX Releases	1
+Using WebLogic rmic	1
+Remove from array	1
+Committing transaction	1
+User Authentication Dialog	1
+Line parser	1
+Cookie domain may not be null	1
+dd MMM yyyy HH:mm:ss.SSS	1
+No namespace URI	1
+EXTEND ASCII	1
+Using plain mail	1
+Download Files	1
+Test Sequence	1
+Missing comma in object literal	1
+key parameter cannot be null	1
+Shouldn't be able to happen	1
+Displaying authentication UI	1
+Detected Mac OS desktop	1
+CubeFW create tmp dir	1
+Reserved region	1
+Application files copy OK	1
+The filter name can't be empty	1
+Successfull unzip	1
+Save the current Project	1
+Manage Software Packs	1
+shift ctrl TAB	1
+Can't load default type list	1
+Iwhen namespaces processing enabled colon can not be at element name start	1
+Use THREAD 1.3	1
+file attribute not set	1
+Search JRE in pdsc	1
+CPN selected for project level	1
+target type	1
+Cannot convert type	1
+Payment Required	1
+MValue of comparator attribute should implement java.util.Comparator interface	1
+Use BLE	1
+Get license file	1
+Cmsis pack unzip successfull	1
+Could not create an XML Parser	1
+The argument processor class	1
+swmgr set proxy type	1
+Exceeded maximum stack depth	1
+Public suffix matcher	1
+native function@0x	1
+message cannot be null	1
+bad opcode for field reference	1
+THREAD 1.3	1
+Exception in DDECallback	1
+Failed to close output stream	1
+Auto Refresh	1
+No candidate to be downloaded	1
+Build Failure	1
+Rx Current	1
+Cannot add an Offered component	1
+Proxy FTP	1
+immutable reference	1
+disabling system assertions	1
+Requested pack is unknown	1
+User-Specified Port	1
+Implementation Version	1
+End of CheckServer Thread	1
+Sequence Number	1
+before saveThirdPartyPreference	1
+minX must be < to maxX	1
+Init Filter	1
+Connection discarded	1
+Connection restablished	1
+Project owner unset	1
+expected <!DOCTYPE	1
+Operation Cancelled	1
+start engine  dependency update	1
+No pack found	1
+Windows 95	1
+element must not be null	1
+Delete Files OK	1
+Start TLS	1
+AccessControlException detected	1
+File Location	1
+PHY link Rate	1
+Open Computer File Fail	1
+Log4J 1.2 not available	1
+column must be valid, was	1
+End of LoadUrlFiles Thread	1
+null input	1
+KmdcIncludes and mdcExcludes are mutually exclusive. Includes wil be ignored	1
+You are using Unix	1
+model already bound	1
+DYou need to set 'Connection Parameters' before Install New Libraries	1
+New Step	1
+No System Proxy available	1
+Can only mark label once	1
+not windows	1
+out of range increment	1
+No tasks defined	1
+Function name must not be null	1
+Firefox uses system settings	1
+FLookupAccountNameW was expected to fail with ERROR_INSUFFICIENT_BUFFER	1
+File must not be null	1
+Array expected	1
+returned from connection	1
+ethernet phy interface	1
+Project instance not set	1
+Detected KDE desktop	1
+shift F5	1
+Pack has MADE4STM32 label	1
+Default Factory COM Thread	1
+arg cannot be null	1
+LCannot have any pending top calls when executing a script with continuations	1
+Firefox uses manual settings	1
+Max instances above 1	1
+majorX must be > 0.0	1
+Wait for continue time	1
+Search getCheckForUpdate status	1
+Null release value	1
+Unable to write EJB jar	1
+STM32Cube MCU Package	1
+Cookie attribute handler	1
+maxDepth has been exceeded	1
+The model is empty	1
+Max per route value	1
+can't parse antlib descriptors	1
+compatibility break	1
+could not resolve systemId	1
+Using jikes compiler	1
+Mac OS	1
+bad type	1
+Zip entry not found	1
+Updater busy	1
+Settings for the Updater	1
+Enable All IPs	1
+Missing pack vendor or name	1
+integrated intership sound	1
+Pack or component not found	1
+READ NULL RECORD	1
+Unable to continue the service	1
+Insufficient Storage	1
+illegal row in day grid	1
+STM32L0x0 Value Line	1
+usb full speed	1
+No logging configuration	1
+Open CheckUpdateFile Fail	1
+Please,do not save this project to avoid to corrupt it	1
+MIME type	1
+Pattern does not contain a date	1
+loadUrlFile : No Thread End now	1
+Default max per route	1
+Method Not Allowed	1
+Software packs loading failed	1
+Max retries	1
+No native windows when headless	1
+Cannot read field	1
+Rx Parameters	1
+DA route must specify an appender reference or an appender definition	1
+Updater is busy	1
+Auto Refresh OFF	1
+Root directory is missing	1
+Executable File Path	1
+start checkBlockDiagramState	1
+srcdir attribute must be set	1
+Use current project	1
+Cswmgr connection status : Get the current network connection status	1
+Cannot find class	1
+Mode and Configuration	1
+Route planner	1
+Layout reset	1
+GPIO configuration	1
+The filter must not be null	1
+The prefix must not be null	1
+Configuration reconfigured	1
+could be used	1
+AThe Not ResourceSelector accepts a single nested ResourceSelector	1
+Proxy required if tunnelled	1
+URL not set	1
+Invalid data	1
+dangling director	1
+ctrl TAB	1
+invalid Route	1
+Com Port Control	1
+Written CheckUpdateFile	1
+Exception caught when fetching TJMax	1
+Application folder backup OK	1
+Rotate -90	1
+Current software not found	1
+missing initial moveto	1
+Invalid packControlFile	1
+Protocol FTP	1
+Check DQS timings margins	1
+Search file entry	1
+Juncompressed size is required for STORED method when not writing to a file	1
+Application Regions	1
+Bundle name is invalid	1
+out of range dimensions	1
+Switching Protocols	1
+Error during set SSL Context	1
+Cool down	1
+Unable to start the service	1
+Error starting modern compiler	1
+Use Proxy	1
+Application files copy failed	1
+Header parameter array	1
+The FileFilter must not be null	1
+Component must be displayable	1
+column must be a valid index	1
+Stream not closed	1
+Cannot search for components	1
+PDSC version is not supported	1
+out of range variable	1
+yyyy-MM-dd HH:mm:ssa	1
+Subentry has been disconnected	1
+dateFormat cannot be null	1
+no pertinent accept found	1
+Path cannot be null	1
+node must not be null	1
+No elements to process	1
+Fredom Form Factor	1
+Missing parameters	1
+Error parsing Log4j schema	1
+majorY must be > 0.0	1
+Size : 0x	1
+LPBAM Manager	1
+Cmsis pack is not in repository	1
+No filename specified	1
+Executing commands	1
+Context selection Error	1
+Suggested videos panel	1
+table event not null	1
+NumberFormatException caught when fetching FlashValueByMHz	1
+CSub is invalid	1
+BYou must specify a classname when using the -inputhandler argument	1
+Show differences only	1
+Unable to reduce the OctTree	1
+No classname defined	1
+Package identifier array	1
+no solution	1
+Exception caught when fetching peripherals list	1
+mixColor cannot be null	1
+bad block header	1
+new STM32CubeMX Release	1
+Character array is missing	1
+Cannot get property	1
+File category is invalid	1
+Power Consumption Calculator	1
+create IPUIPlugin	1
+pack migrate	1
+FTP Server connection OK	1
+CachedClock Updater Thread	1
+Software component selected	1
+JDOM caught when fetching RamValueByMhz	1
+Reset Content	1
+Step Settings	1
+Protocol name	1
+user-mapped section open	1
+Name Constant duplicated	1
+SHUTDOWN HOOK	1
+GCould not delete a queue that does not belong to the active application	1
+thread selected	1
+Cannot read defaults	1
+High + Low Time	1
+Invalid empty classname	1
+MPU Clock Frequency	1
+There is no classname specified	1
+unable to add to tray	1
+Using kjc compiler	1
+flexible memory interface	1
+Not a Symbol	1
+Not Acceptable	1
+Version string is empty	1
+None available	1
+No post copy tasks defined	1
+Server answer received	1
+The strings must not be null	1
+Test ImportIPTable	1
+change path	1
+Connection factory	1
+Pack Vendor	1
+No input provided for project	1
+Tower Form Factor	1
+Possible Failure Root Cause	1
+Attribute name	1
+project opened	1
+Environment: STM32CubeIDE	1
+External Memory Loader	1
+new STM32CubeUpdater Release	1
+Constant Name Error	1
+required text missing	1
+No base64 converter	1
+File is a Cube Firmware	1
+unsupported model type	1
+Short Presentation	1
+language version	1
+import config	1
+listData must not be null	1
+null symbol name	1
+new MailcapFile: InputStream	1
+Cannot handle CGLIB callback	1
+Pattern matcher	1
+Request handler	1
+Start cleanning tmp directories	1
+Suppress Local Echo	1
+Updater currently busy	1
+internal matchings	1
+CExpected GetTokenInformation to fail with ERROR_INSUFFICIENT_BUFFER	1
+EEE, dd-MMM-yyyy HH-mm-ss z	1
+bad finally target	1
+Redo Mode and pinout	1
+Cannot remove pack	1
+Cannot get field	1
+Path is empty	1
+NTLM engine	1
+Exception caught when fetching FlashValueByMHz	1
+no executable specified	1
+EEE, dd-MM-yyyy HH:mm:ss z	1
+MNull cpuFrequencyMHzList passed as argument of Calculation.averageDMIPSResult	1
+File does not exist	1
+Incompatible field type	1
+Source input stream	1
+invalid name	1
+no resource specified	1
+Cookie spec factory	1
+Invalid license file	1
+invalid bytecode	1
+out of range byte	1
+Save Config File	1
+the application	1
+Table name cannot be empty	1
+levelName is null	1
+Detecting IE proxy settings	1
+The magic number cannot be null	1
+No change made	1
+File is a potential cmsis pack	1
+error setting up output stream	1
+or another process is locking the software directory	1
+Compare Projects ProgressBar	1
+Missing configuration location	1
+Cannot find name of attribute	1
+Error while checking zip	1
+Object is not a map	1
+MPU0 Power Mode	1
+JNull sequenceTimeList passed as argument of Calculation.averageDMIPSResult	1
+Unexpected end of XML stream	1
+NThe basejarname attribute must be specified with the basejarname naming scheme	1
+Attribute class	1
+dest specified without mapper	1
+config saveext	1
+No current entry	1
+NumberFormatException caught when fetching RamValueByMhz	1
+special domains	1
+Reason phrase catalog	1
+MMMM d yyyy	1
+Updater not available	1
+Waiting progress bar	1
+Automaticaly Update for a Patch	1
+Mozilla Rhino	1
+Connection to FTP Server OK	1
+Connection backoff strategy	1
+NTLM: Message too short	1
+Display Settings	1
+Using virtual host	1
+Init CAD model plugin	1
+DDR tuning	1
+Can't load default task list	1
+context stack has been frozen	1
+Details and warnings	1
+Gonly one colon is allowed in attribute name when namespaces are enabled	1
+Completed parsing configuration	1
+Hard Light	1
+NOT ENOUGH DIFFERENCES	1
+can't add in json	1
+Call HAL handler	1
+newSize must be greater than 0	1
+resetting http proxy	1
+Empty component in string	1
+this must be the last one	1
+expiration must be non-negative	1
+condition satisfied	1
+Configuration Settings	1
+date not selectable	1
+Direct connection	1
+Cannot write defaults	1
+Error flushing XML stream	1
+FDEPRECATED - the 'style' attribute should be relative to the project's	1
+JCould not rename a scenario that does not belong to the active application	1
+Name cannot be empty	1
+Mode key found: CMSIS_V1_M4	1
+Context sharing	1
+no XML is given	1
+error file specified as null	1
+Mode key found: CMSIS_V2_M7	1
+up-to-date on disk	1
+Build Success	1
+Remove from favorites	1
+Unterminated object literal	1
+XML Parser	1
+Fswmgr set proxy login <login-name> : Change proxy authentication login	1
+JDOM caught when fetching TJMax	1
+Clear Search Text	1
+ISupport for specifying 'L' with other days of the week is not implemented	1
+Cannot append to a reference	1
+Bad handlerLabel	1
+Waiting thread	1
+dir attribute is required	1
+pipe broken	1
+Error writing XML stream	1
+Unterminated array literal	1
+control F	1
+Load Example	1
+TACACS UID	1
+inavlid position hint	1
+Renaming LPBAM Queue Error	1
+loggerConfig was null	1
+Settings not found	1
+user id	1
+JNull selection passed as argument of DisplayChangesFrame.saveChangesInFile	1
+Error during file unzip	1
+Invalid Option Code	1
+Generated by CubeMX	1
+Retry delay: interrupted	1
+bare metal	1
+MMM dd HH:mm:ss	1
+Mode key found: NATIVE_M4	1
+Unable to find create method	1
+Connected Master	1
+Jswmgr set proxy password <password> : Change proxy authentication password	1
+column must be visible to pack	1
+bad opcode for method reference	1
+Software Pack Report	1
+not Method or Constructor	1
+Rx Boosted	1
+Save the Project in a new file	1
+block overrun	1
+Install Error	1
+err must not be null	1
+Begin ThirdPartyModel Refresh	1
+failed to load JavaCC	1
+zipfile attribute is required	1
+Processing Log4j annotations	1
+MPU SS	1
+data descriptor	1
+SPEED BIN GRADE CONFIG0	1
+ConnectionSource cannot be null	1
+Received invalid console input	1
+Invalid Component	1
+alpha value out of range	1
+Lboth token and value parameters, or only a filtersFile parameter is required	1
+bad merge attempt	1
+URL for link cannot be null	1
+Mode key found: CMSIS_V1	1
+Wrapped stream	1
+Cannot clone Cloneable type	1
+Post copy tasks OK	1
+Connection set	1
+Component must be visible	1
+Can't open X Display	1
+MailcapCommandMap: load PROG	1
+Mode key found: CMSIS_V1_M7	1
+Unable to preload plugins	1
+Bswmgr connection check : Launch an active network connection check	1
+Unterminated string literal	1
+project has not been set	1
+clock set fractional	1
+Must specify URL	1
+Start of LoadUrlFiles Thread	1
+End build external matchings	1
+pack status	1
+Temp dir is writeable	1
+Lock Secure Resources	1
+unsupported table entry	1
+fail to obtain a DB Accessor	1
+Pressure Sensor	1
+JEither the file or the dir attribute or nested resources must be specified	1
+GNU libgcj	1
+monthView must not be null	1
+Cannot write field	1
+No converter available	1
+Group PSID is invalid	1
+Choose Temperature	1
+Physical Address : 0x	1
+data is null	1
+This pack does not exist	1
+Pattern is missing	1
+Compare Result	1
+Memory Card	1
+stream is null	1
+Recent Projects	1
+Using classic compiler	1
+Create a New Project	1
+Teardown Exception	1
+Other videos panel	1
+Filtered view	1
+Kde uses no proxy	1
+Error when fetching vdd values	1
+Detected Windows desktop	1
+Reset To Default Color	1
+swmgr connection status	1
+No startElement being processed	1
+Backoff manager	1
+STM32WBxM Modules	1
+Unable to read default manifest	1
+SUPPRESS GO AHEAD	1
+Fnamespace prefix is required after xmlns:  when namespaces are enabled	1
+Cannot parse value as zone id	1
+cannot wrap null iterator	1
+No pattern supplied on style	1
+Invalid PDSC name	1
+Interpreter frames not found	1
+outputEncoding must not be null	1
+really unknown	1
+Firefox uses no proxy	1
+Pin Configuration	1
+No specified file	1
+setFile ended	1
+EEE dd MMM yy HH:mm:ss z	1
+Add an application region	1
+names must not be null	1
+Array required	1
+Too big string	1
+ELookupAccountSidW was expected to fail with ERROR_INSUFFICIENT_BUFFER	1
+Discarding error output	1
+insertColor failed	1
+Touch Key Sensing	1
+CubeFW unexpected install error	1
+liquid crystal display	1
+Honly one colon is allowed in name of element when namespaces are enabled	1
+MailcapCommandMap: !anyLoaded	1
+Catastophic failure	1
+No field provided	1
+entry name not set	1
+bad operand size	1
+Load projects then try again	1
+tft display	1
+Failed to launch JJDoc	1
+negoTokens sequence	1
+Current Default Excludes:%n	1
+STM32CubeMX project Files	1
+Text cannot be null	1
+Invalid Manifest	1
+Application forcibly shut down	1
+swmgr set proxy authentication	1
+MailcapCommandMap: add to PROG	1
+Maximum header count exceeded	1
+Optimal Settings	1
+Color Burn	1
+usb otg	1
+Could not configure KeyStore	1
+Retry strategy	1
+sorter event not null	1
+Encoding is missing	1
+Unexpected error	1
+CubeFW unzip patch	1
+Missing sequential element	1
+expecting object type	1
+Could not register mbeans	1
+User cancelled unzip	1
+Temporary Redirect	1
+Enter the Queue Name	1
+Queue Circularity Configuration	1
+Root entry is missing	1
+RowSorter must not be null	1
+No updater available	1
+Reader must not be null	1
+SSL session not available	1
+Exception caught when fetching series data	1
+Apache Log4j	1
+Target folder is invalid	1
+Bphase were not honored. However, subsequent logging calls to these	1
+cpload project1	1
+handle sec 8.9.5.2, bullet #4	1
+null bounds	1
+Invalid character 0x	1
+digital analog converter	1
+Exception caught when fetching package data	1
+BIllegal row index passed as argument of SequenceTable.duplicateRow	1
+Reset the value just stored	1
+released ENTER	1
+Invalid count value	1
+AnalyticsEventRequest received	1
+Broken output stream	1
+Unexpected type encountered	1
+No issue found	1
+Using jvc compiler	1
+The file must not be null	1
+Reset View	1
+no more data available	1
+Select file	1
+reference is of wrong type	1
+Temp dir	1
+Software Component Class	1
+Updater plugin not available	1
+Expectation Failed	1
+out of range index	1
+Repeated tag scope element: all	1
+Cannot find a private key entry	1
+Thai Buddhist	1
+Invalid IP config file	1
+Light Sensor	1
+eval code	1
+Namespace may not lack a URI	1
+Load a Project	1
+XSLT Processor	1
+thread deselected	1
+CubeFW unzip main release	1
+swmgr refresh	1
+SAX1 parsers are not supported	1
+Header element array	1
+was applied	1
+No methods defined for call	1
+Done cleanning tmp directories	1
+READ EOF RECORD	1
+Search Pinout Compatible	1
+zero length message	1
+ONull operatingPowerModes passed as argument of SequenceTable.checkOneTransition	1
+No mapper	1
+Could not configure TrustStore	1
+Unsupported Media Type	1
+Can't load javah	1
+Bswmgr set proxy type <none | manual | system > : Change proxy type	1
+Show Attribute Warning Messages	1
+AUUID has to be represented by the standard 36-char representation	1
+file collection contains null	1
+Tests failed	1
+Auth scope	1
+Fatal Error	1
+Timeout waiting for connection	1
+credentials present	1
+Cannot set field	1
+set clock divider	1
+Start Directory is null	1
+Error reading input	1
+OCannot construct type, none of the arguments match any constructor's parameters	1
+Lower bound cannot be negative	1
+License getfocus event	1
+Heading 4	1
+Too few knots in spline	1
+Pin Light	1
+Symmetric Passive	1
+Pdsc schema invalid	1
+No information for migration	1
+IOException detected	1
+Queue of auth options	1
+source is null	1
+condId is empty	1
+build delete file info list	1
+Added listener on pack manager	1
+Application Region Actions	1
+Socket factory registry	1
+Not Modified	1
+Discarding output	1
+no programmer	1
+Bad tree in codegen	1
+negoToken type	1
+More that one pack found	1
+Cannot write key without name	1
+Too complex regexp	1
+i2c bus	1
+swmgr connection check	1
+Per host connection cap	1
+image direct memory access	1
+Must specify destination file	1
+Failed Dependency	1
+Open Updater definition File OK	1
+Disable All IPs	1
+clock resolution	1
+MailcapCommandMap: load HOME	1
+Unicode not supported	1
+Soft Light	1
+writing to an input buffer	1
+seriesData is null	1
+Heading 1	1
+Missing from in containsregex	1
+ServiceOrder not defined	1
+Single Mapped Signals	1
+Missing components	1
+System view	1
+Expected StartNode	1
+digital camera interface	1
+ProcessDestroyer Shutdown Hook	1
+Preenmption Priority	1
+some config	1
+Connection is still allocated	1
+yyyy-MM-dd G HH:mm:ss.S z	1
+Invalid IP mode file	1
+Windows CE	1
+AThis method must be called from the static initializer of a class	1
+No buildpath specified	1
+please file a bug report on this	1
+IO error sending mail	1
+MM-dd-yy hh:mma	1
+Error with port com on system	1
+Could not read entries	1
+You must specify a spec file	1
+Not a valid zone id	1
+No tunnel unless connected	1
+argument array	1
+Method Failure	1
+Invalid pack	1
+Refresh Data	1
+AlgorithmIdentifier sequence	1
+No BOMs specified	1
+Kde uses manual proxy settings	1
+invalid argument	1
+Bad startLabel	1
+alt DOWN	1
+cronExpression cannot be null	1
+Error during parsing procedure	1
+Can not move a coupled queue	1
+editor must not be null	1
+Unable to write log file	1
+Source object	1
+Login failed	1
+at script	1
+Fcan only detect compression for extension tar, gzip, gz, bz2, or bzip2	1
+password is required	1
+Applying assertions	1
+system ID cannot be null	1
+Audio Line Out	1
+oldest target file	1
+not encodeable	1
+Property name cannot be null	1
+Start build external matchings	1
+No classpath to check	1
+yyyy-MM-dd HH:mm:ssz	1
+File already exist	1
+JUpdater Post install step update scaling compatibility registry: javaw.exe	1
+ColumnConfigs cannot be empty	1
+Output Power	1
+Ejbc reported an error	1
+IOC CubeMX version	1
+File not a symlink	1
+defaultDimension cannot be null	1
+no solution found	1
+bad opcode for class reference	1
+yyyy-MM-dd HH:mm:ss,nnnnnnnnn	1
+No files defined	1
+Moved Temporarily	1
+TELOPT PRAGMA HEARTBEAT	1
+can evaluate this value	1
+Stack trace to locate invoker	1
+LCD controller	1
+catch clone	1
+Invalid number of digits	1
+Only one selector allowed	1
+Check Update Manager	1
+Not a valid XML mode	1
+Can't access local storage	1
+Cannot get BeanInfo of type	1
+out of range field	1
+Distant Light	1
+EEE, dd-MMM-yyyy HH:mm:ss z	1
+No nested XML specified	1
+missing nonce in challenge	1
+Target host missing	1
+Parameters Settings	1
+error setting up error stream	1
+No base path provided	1
+mode : java	1
+Update type : full_update	1
+Stream has been already closed	1
+configurationSource is null	1
+Error validating configuration	1
+Cmsis pack license accepted	1
+Byte array is null	1
+Deleting the Current Queue	1
+Only one mapper allowed	1
+Keystore file	1
+BZip2 CRC error	1
+With no base directory	1
+failed to find a checksum	1
+Move to trash aborted	1
+Reference URI	1
+invalid label name	1
+Cannot parse period value	1
+Cannot parse value as instant	1
+Using jasper compiler	1
+os.name not found	1
+Unable to write XML file	1
+MPU1 Power Mode	1
+Request path	1
+getIndexForColor failed	1
+Null values are not allowed	1
+Max value	1
+IUpdater Post install step update scaling compatibility registry: java.exe	1
+random number generator	1
+Best CMSIS pack for migration	1
+No converter specified	1
+Nothing to test for truth	1
+Too many mappers	1
+Cannot set > 1 output target	1
+Gwhen namespaces processing is disabled attribute namespace must be null	1
+No free connection to delete	1
+Creating folders	1
+JDOM caught when fetching FlashValueByMHz	1
+Xml file not found	1
+major device number	1
+choices must not be null	1
+No bytes specified	1
+Moved Permanently	1
+JRE files copy OK	1
+File Information Missing	1
+Invalid url	1
+MailcapCommandMap: load JAR	1
+Error when fetching temperatures	1
+Manifest is invalid	1
+Arduino Form Factor	1
+You are using Solaris	1
+Pdsc schema issues	1
+Unknown attribute	1
+Inconsistent parser state	1
+Inconsistent codec state	1
+Domain suffix lists	1
+CGroup is invalid	1
+No specified reference file	1
+defaultBorder cannot be null	1
+Mode key found: NATIVE_M7	1
+unable to access mnemonic	1
+Connection timed out	1
+PdscSchemaCheckRequest received	1
+License Agreement	1
+Max total value	1
+GException occurred while using default truststore. This should be a BUG	1
+Map of handlers	1
+Bad endLabel	1
+error reporter	1
+node is not a child	1
+Negative chunk size	1
+Found pdsc element	1
+version type	1
+Category Name	1
+Message constraints	1
+External Application Error	1
+last modification time	1
+Corrupt data stream	1
+Request has been aborted	1
+Enabled Peripherals	1
+CMSIS pack break compatibility	1
+Unable to insert into queue	1
+not in call to readObject	1
+MMM dd yyyy	1
+DNull modesUsed passed as argument of SequenceTable.getDurationByMode	1
+TERMINAL TYPE	1
+appxml attribute is required	1
+Request Too Long	1
+Exception caught when fetching maxCurrent	1
+Retry interval	1
+MMT Output Log	1
+Project 1 not loaded	1
+invalid entry size	1
+source resource not defined	1
+Prototyping Area	1
+sun os	1
+Bad Gateway	1
+Automatic Import	1
+key is mandatory	1
+Spool Files	1
+Generating Javadoc	1
+Reset Step Settings	1
+Proxy Config Script	1
+Constant Value Error	1
+Update Manager	1
+Unknown token type	1
+Frequency Band	1
+Import MX Settings	1
+DNull minFloatInList passed as argument of Calculation.minFloatInList	1
+UnLock Secure Resources	1
+Component must be heavyweight	1
+MMMM d, yyyy h:mm:ss a z	1
+Manifest Version not found	1
+Missing attribute : version	1
+Renaming LPBAM Scenario Error	1
+No method to stop	1
+The Graphics2D must be supplied	1
+prefix must not be null	1
+THREAD 1.3 Conditions	1
+secure domain only	1
+Hostname verifier	1
+Connection config	1
+link name	1
+external matchings	1
+GCould not rename a queue that does not belong to the active application	1
+Ecrc checksum is required for STORED method when not writing to a file	1
+null URL	1
+Flip Diagonal	1
+Target host is not specified	1
+Namespace-aware parser	1
+extensionName property is null	1
+chrom art accelerator	1
+Invalid engine state	1
+Cannot parse value as month day	1
+Show View	1
+Cprocessing instruction can not have PITarget with reserved xml name	1
+MMT panel color	1
+Privacy Statement	1
+Sequence Type	1
+Alternative date pattern	1
+Error: OrigTime > DestRcvTime	1
+NumberFormatException caught when fetching maxCurrent	1
+Software component	1
+Not able to detect OS	1
+Enable Auto Refresh	1
+JDOM caught when fetching peripherals list	1
+Windows 98	1
+Error closing XML stream	1
+CubeFW unzip patch error	1
+The hostname is invalid	1
+TLS handshake finished	1
+Unterminated quote	1
+Proxy Authentication Required	1
+Cimport <file>: import the configuration file in the current project	1
+Lin Annotation Processing swaRefAdapter isn't avaialble, so this returns null	1
+Failed to launch JJTree	1
+ARM Cortex-M3	1
+EEE dd-MMM-yy HH:mm:ss z	1
+defaultFont cannot be null	1
+LPBAM function Toolbox	1
+Cannot parse value as year	1
+Sporadic failure	1
+Vdd Core	1
+BAn error has occurred while trying to execute the iAS ejbc utility	1
+Compare Project	1
+invalid dividerSize	1
+Reset Configuration	1
+Audio Line In	1
+Mode key found: NATIVE	1
+skip value is negative	1
+CNull selection passed as argument of PowerOutPanel.saveSequenceFile	1
+Nscriptdef <element> elements must specify either a classname or type attribute	1
+Cannot create XmlPullParser	1
+DACL is invalid	1
+Rotate CounterClockwise	1
+Byte array must not be null	1
+No table name provided	1
+Unable to encode String	1
+Request executor	1
+FYou need to set 'Connection Parameters' before using Check for Updates	1
+CSynthBorder is being used outside after the UI has been uninstalled	1
+ANull mode passed as argument of SequenceTable.getStepDurationList	1
+Restriction Limitations	1
+start label not defined	1
+cannot evaluate	1
+Copy Files OK	1
+Input string may not be null	1
+No path specified	1
+The path must not be null	1
+GCant discard error output when error, errorProperty or logError are set	1
+Temperature in Celcius	1
+AMapRewritePolicy is not configured with any valid key value pairs	1
+Data update is available	1
+reading from an output buffer	1
+EStructuredDataFilter is not configured with any valid key value pairs	1
+null name	1
+Ok button	1
+Invalid reference	1
+Invalid pack name	1
+argument contains null	1
+Pinout view	1
+Remove all filters	1
+Path must not be empty	1
+No annotation was provided	1
+compare project used	1
+No header to remove	1
+stream corrupted	1
+CubeFW move to repository	1
+unnamed script	1
+the group attribute is required	1
+Reset Zoom	1
+zip file closed	1
+Unexpected opcode for 1 operand	1
+usb host	1
+no elements	1
+swmgr install	1
+Length must be > 0	1
+Error compiling script	1
+MPU Sub System Clock Frequency	1
+this node type has no body	1
+rpn retrieved	1
+Can't read TutoVideoDB	1
+ANullPointerException caught while saving in the analytics library	1
+No charsetName specified	1
+Request sent	1
+output pumper	1
+Cancelling request execution	1
+Setting the connection	1
+SACL is invalid	1
+adaptor cannot be null	1
+No specified date	1
+XStream JVM diagnostics	1
+BThis PropertyResource does not reference or proxy another Resource	1
+File Reaper	1
+End Address : 0x	1
+MimetypesFileTypeMap: load SYS	1
+No reference specified	1
+EUpdater Post install step cleanupInstallFile, unsupported update type	1
+Inteceptor list	1
+offset + length out of range	1
+Connection must not be open	1
+Go to RIF Panel	1
+reset clock controller	1
+Invalid timeout value	1
+No type was provided	1
+Function name may not be null	1
+start ghatherIpErrorStates	1
+output attribute is required	1
+OR in AND not allowed	1
+delegate cannot be null	1
+Port Com Event	1
+BUILD SUCCESSFUL	1
+PDSC validation phase	1
+Unknown Error	1
+ARM Cortex-M0	1
+Redirect strategy	1
+at least one source is required	1
+Error: xmitTime < rcvTime	1
+License acceptance setVisible	1
+Manage user defined Thirdparty	1
+Using UU mail	1
+PDSC Error setVisible	1
+Not accessible	1
+Data Refresh	1
+not in call to writeObject	1
+Loaded as interpolated	1
+The port com not responding	1
+Using SUN rmic compiler	1
+Heading 6	1
+Header line list	1
+SEND LOCATION	1
+Error Instanciation getPlugin	1
+Other videos	1
+end label not defined	1
+The type attribute is required	1
+Failed calling method	1
+Need an initialized array	1
+No status about this pack	1
+No parameters required	1
+Project 2 not loaded	1
+LPBAM MainPanel	1
+No valid key	1
+END OF RECORD	1
+Missing comma in array literal	1
+Source must not be null	1
+error pumper	1
+output property not defined	1
+Attribute handler	1
+Pin Edge	1
+Invoked Updater debugAction	1
+Bare metal feature available	1
+System tray not supported	1
+MimetypesFileTypeMap: load HOME	1
+Unable to create Message Digest	1
+Bundle Version is invalid	1
+CubeFW notify analytics	1
+Tx Parameters	1
+Other Memory	1
+Set post-install mode	1
+Take PCC results with caution until next power data upgrade	1
+At least one column is required	1
+Edit Warning	1
+Getting files	1
+Multiple Choices	1
+Heading 3	1
+Run the Test	1
+MX DB update Finish	1
+analytics disabled	1
+Default date pattern	1
+Response handler	1
+No unregisterService method	1
+GThreadContextMapFilter is not configured with any valid key value pairs	1
+BnewWidth and newHeight cannot be greater than the image dimensions	1
+write end dead	1
+Error reading package.xml file	1
+Process ID	1
+Detecting OSX proxy settings	1
+Unbalanced node	1
+Error while unzip file entry	1
+Permission set for copy source	1
+Calling EJBUtilities	1
+input contained no data	1
+async appender	1
+AIgnoring source, target and bootclasspath as release has been set	1
+swmgr set proxy login	1
+Removing existing archived pdsc	1
+General Settings	1
+src attribute is required	1
+ECan not load registers as there is no valid DDR configuration defined	1
+wrong protocol version	1
+MailcapCommandMap: getResources	1
+Argument value 0x	1
+Error when fetching temperature values	1
+Unmatched argument	1
+Could not remove shutdown hook	1
+JDOM caught when fetching maxCurrent	1
+JRE copy OK	1
+failed to create XZOutputStream	1
+defaultInsets cannot be null	1
+this URI	1
+Updater for STM32Cube	1
+Vertical Alignment	1
+CNull dmipsList passed as argument of Calculation.averageDMIPSResult	1
+FAILED ASSERTION	1
+general purpose input output	1
+ZigBee Conditions	1
+No string supplied on repeat	1
+Condition solved	1
+clock set multiplexer	1
+Starting web application	1
+INull selection passed as argument of PowerOutPanel.getSelectedDisplayType	1
+Parallel execution timed out	1
+Configuration Not Modified	1
+LPBAM Management	1
+Show Packs with Label	1
+Look In	1
+Calling java2iiop	1
+Releasing all known loggers	1
+Pdsc file not found	1
+No response from proxy	1
+The port number is invalid	1
+Cannot handle multiple subpaths	1
+NProperty Mutator name must start with 'set', or set the anotation 'name' value	1
+No Project specified	1
+XML Parser information	1
+Missing required parameter	1
+no project	1
+Code Generation Configuration	1
+beginToken must not be empty	1
+Open Updater Control File OK	1
+Unable to remap	1
+Detecting Kde proxy settings	1
+Software Update Finished	1
+Init User Auth plugin	1
+bad exception start	1
+parser reused	1
+Application Exception	1
+Save Search	1
+Missing attribute parameter	1
+Ounadvise: Interface must define a value for iid via the ComInterface annotation	1
+MPU SUb System Power Mode	1
+analog digital converter	1
+Unsupport check update	1
+Unregistered option	1
+M33 Master feature available	1
+Peripherals information	1
+Change cursor	1
+Truststore URL	1
+TrustZone feature available	1
+Application Support	1
+Argu getMethodNameref	1
+Monitor is not running	1
+Random generator not available	1
+Search Zipped JRE in pdsc	1
+Non Authoritative Information	1
+Exception caught when fetching datasheet data	1
+missing realm in challenge	1
+Highlighter must not be null	1
+SUBGHZ Configuration	1
+Exception parameter	1
+No Bundle provided	1
+PdscSchemaCheckCancel received	1
+No Src specified	1
+Custom Form Factor	1
+Opening node after writing text	1
+Static Utilities class	1
+No task defined	1
+Parser key cannot be null	1
+Creating symlink to jre	1
+The offset cannot be negative	1
+BSP APIs	1
+No routes configured	1
+Connection opened	1
+defaultIcon cannot be null	1
+patchfile argument is required	1
+No ContextSelector provided	1
+Launcher JAR directory	1
+LPBAM Output Log	1
+mode : fork 5	1
+DThere is an incompatible JNA native library installed on this system	1
+Choose legend color	1
+Mode key found: CMSIS_V2_M4	1
+Entry not planned for this pool	1
+Cannot migrate integrated pack	1
+Couldn't reach any recipient	1
+Looking for lib- prefix	1
+Incompatible color models	1
+DThere is a problem when fetching shared component panels and actions	1
+parent object is null	1
+Result details	1
+Start integrity checks thread	1
+usb high speed	1
+Input frequency	1
+No script name provided	1
+NumberFormatException FRACV	1
+JCould not delete a scenario that does not belong to the active application	1
+Unsupported updater type	1
+Locale information	1
+Image fetch error	1
+ISystem property ant.input.properties for PropertyFileInputHandler not set	1
+No sub-builds to iterate on	1
+Show or hide the filter panel	1
+Unable to read manifest	1
+Cannot call default constructor	1
+User home not defined	1
+yyyy-MM-dd HH:mm:ss,nnnnnn	1
+EEE, dd MMM yy HH:mm:ss z	1
+Load Searches	1
