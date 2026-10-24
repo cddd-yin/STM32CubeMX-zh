@@ -1,8 +1,15 @@
 ﻿# 构建 STM32CubeMX 汉化 Agent：用 CubeMX 自带 JDK 编译源码，打包成 成品\stm32cubemx-zh-agent.jar
 param(
-    [string]$Jdk = 'C:\stm32mx软件\jre\bin'
+    [string]$Jdk = ''   # CubeMX 自带 JDK 的 bin 目录；留空自动探测
 )
 $ErrorActionPreference = 'Stop'
+
+if (-not $Jdk) {
+    foreach ($cand in @('C:\stm32mx软件\jre\bin',
+                        'C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\jre\bin')) {
+        if (Test-Path (Join-Path $cand 'javac.exe')) { $Jdk = $cand; break }
+    }
+}
 
 $proj = Split-Path -Parent $PSScriptRoot
 $src  = Join-Path $proj '源码'
